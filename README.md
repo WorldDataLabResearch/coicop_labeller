@@ -66,6 +66,25 @@ There are eight configuration variables with existing defaults. In order to chan
 - `local_path`: `str` representing the path to the folder in which intermediary batch files could be places. 
 - `MODEL_SET`: `str` representing a unique label for the run of the existing model and it's results. 
 
+#### Testing
+The folder test/keepCols contains an input file `test.csv`, which is used to confirm that the labeller is keeping all columns in the input data. The columns `testCol1`, `testCol2` and `testCol3` are purposefully filled with multi-format fdata and blanks to ensure edge cases are handled. 
+
+To run this test, simply run the following (making sure that your cd is set to this repo's folder on your local machine):
+
+```
+test/keepCols/test.sh -d
+```
+
+This will print the outcome of the test. If all is well, you should see 'Test passed: All required columns are present in the output file' 
+
+If you want to run the test and also inspect the output file from labelling test.csv, run: 
+
+```
+test/keepCols/test.sh
+```
+
+This will create another CSV file in the test/keepCols folder - `test_output.csv` - which should have `testCol1`, `testCol2` and `testCol3` along with the new COICOP label columns. 
+
 ## Authors
 This algorithm is published by World Data Lab Inc. ([worlddata.io](https://worlddata.io/)) as a feature in World Data Lab Pro ([worlddata.pro](https://worlddata.pro/)). World Data Pro is a platform to access the most accurate and forward-looking data on consumer headcounts, demogrpahics, and spending across the world. 
 

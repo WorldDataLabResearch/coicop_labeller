@@ -1724,3 +1724,19 @@ astrologers, private detectives, bodyguards,
 matrimonial agencies and marriage guidance
 counsellors, public writers, miscellaneous
 concessions (seats, toilets, cloakrooms), etc."
+
+# few-shot learning examples
+coicop_few_shot_examples <- "
+product                          coicop_code           description
+<chr>                               <chr>                 <chr>
+'Smart Home Assistant Device'       05.5.2        'Small Tools and Miscellaneous Accessories'
+'Fitness Tracker Wristband'         12.1.2        'Protein powder'
+'Vegan Meat Substitute'             1.1.9         'Educational subscription'
+'Polaroid'                          9.1.5         'Summer camp'
+'Crayons'                           9.5.4         'Solar panel'
+'Eco-Friendly Yoga Mat'             9.3.2         'Wine'
+'Plant-Based Skincare Serum'        12.1.3        'Handbag'
+'Electric Car Charging Cable'       7.2.3         'Motorcycle maintenance kit'
+'Hot chocolate'                     11.1.1        'Camping tent'
+'Dry-cleaning services'             3.1.4         'Prescription sunglasses'
+"
