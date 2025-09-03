@@ -21,7 +21,7 @@ err_missing_args <- paste0("Missing parameters provided. This function requires 
                            "try:\n",
                            "\tRscript coicop_labeller.R sample.csv index product_name_en")
 
-## validate arguments ===================================================  
+## validate arguments ===================================================
 
 if (length(args) < 3) {
   cat(err_missing_args)
@@ -69,7 +69,7 @@ if (length(missing_columns) > 0) {
 }
 
 ## creating intermediary file to keep non-related columns from input data
-intermediary_otherCols <- products  
+intermediary_otherCols <- products
 intermediary_file_path <- "intermediary_otherCols.csv"
 write.csv(intermediary_otherCols, intermediary_file_path, row.names = FALSE)
 
@@ -132,7 +132,7 @@ coicop_labeller <- function(products,
 
     # printing the cost and tokens used
     if (verbose) {
-      print(paste("Full Tokens used: ", 
+      print(paste("Full Tokens used: ",
                   response$usage$total_tokens,
                   " Approximate Cost: $",
                   round(cost, digits = 2), sep = ""))
@@ -141,9 +141,10 @@ coicop_labeller <- function(products,
 
   ## function to convert COICOP label columns to numeric
   predictions_to_numeric <- function(db) {
-    db$coicop_modeled_1 <- as.numeric(db$coicop_modeled_1)
-    db$coicop_modeled_2 <- as.numeric(db$coicop_modeled_2)
-    db$coicop_modeled_3 <- as.numeric(db$coicop_modeled_3)
+    db$coicop_1 <- as.numeric(db$coicop_1)
+    db$coicop_2 <- as.numeric(db$coicop_2)
+    db$coicop_3 <- as.numeric(db$coicop_3)
+    db$coicop_4 <- as.numeric(db$coicop_4)
     return(db)
   }
 
@@ -185,10 +186,10 @@ coicop_labeller <- function(products,
       ))
 
     # separating the COICOP labels into individual columns
-    labelled_by_index <- separate(labelled_by_index, code, into = c("coicop_modeled_1", "coicop_modeled_2",
-                                                                    "coicop_modeled_3"),
+    labelled_by_index <- separate(labelled_by_index, code, into = c("coicop_1", "coicop_2",
+                                                                    "coicop_3", "coicop_4"),
                                   sep = "\\.", fill = "right", convert = TRUE)
-    
+
     # converting the COICOP labels to numeric
     labelled_by_index <- predictions_to_numeric(labelled_by_index)
 
@@ -202,12 +203,13 @@ coicop_labeller <- function(products,
 
   ## function to update the labelled data frame
   update_labelled_df <- function(chunk_index, execution_time = NA) {
-    
+
     # read the newly labelled data
     newly_labelled_data <- read.csv(paste(local_path, get_file_name(chunk_index), ".csv", sep = ""))
-    
+
     # only keep the COICOP columns and the index
-    coicop_cols <- c(product_id_col_name, "coicop_modeled_1", "coicop_modeled_2", "coicop_modeled_3")
+    coicop_cols <- c(product_id_col_name, "coicop_1", "coicop_2",
+                     "coicop_3", "coicop_4")
 
     # print the number of labels generated
     if (verbose) {
@@ -231,11 +233,11 @@ coicop_labeller <- function(products,
 
     # reading the intermediary file (which has ALL original columns)
     intermediary_data <- read.csv(intermediary_file_path)
-    
+
     # joining the COICOP classifications with the original data
     final_output <- intermediary_data %>%
         left_join(newly_labelled_data, by = product_id_col_name)
-    
+
     # writing the final output to a CSV file
     write.csv(final_output, gpt_output_file, row.names = FALSE)
     }
@@ -313,3 +315,7 @@ coicop_labeller(products, product_id_col_name, product_col_name)
 
 # deleting 'intermediary_otherCols.csv' file from the directory
 file.remove (intermediary_file_path)
+
+file.remove(c(Sys.glob("gen_labels_*.csv"),
+              Sys.glob("gen_labels_*.txt")))
+

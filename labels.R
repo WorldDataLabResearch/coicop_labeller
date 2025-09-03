@@ -1,165 +1,249 @@
 #coicop_labels_str = "coicop_code coicop_1 coicop_2 coicop_3 coicop_4 coicop_5 level description                        short_description\n    <chr>          <dbl>    <dbl>    <dbl>    <dbl>    <dbl> <dbl> <chr>                              <chr>            \n  1 01                 1        0        0        0        0     1 Food and Non-Alcoholic Beverages   Food             \n  2 01.1               1        1        0        0        0     2 Food                               Food             \n  3 01.1.1             1        1        1        0        0     3 Bread and Cereals                  Bread & Cereal   \n  4 01.1.1.1           1        1        1        1        0     4 Cereals                            Cereals          \n  5 01.1.1.2           1        1        1        2        0     4 Flour of Cereals                   Flour            \n  6 01.1.1.3           1        1        1        3        0     4 Bread and Bakery Products          Baked Goods      \n  7 01.1.1.4           1        1        1        4        0     4 Breakfast Cereals                  Breakfast Cereals\n  8 01.1.1.5           1        1        1        5        0     4 Macaroni, Noodles, Couscous and S… Pasta            \n  9 01.1.1.9           1        1        1        9        0     4 Other Cereal and Grain Mill Produ… Cereals          \n 10 01.1.2             1        1        2        0        0     3 Meat                               Meat             \n 11 01.1.2.1           1        1        2        1        0     4 Live Land Animals                  Live Animals     \n 12 01.1.2.2           1        1        2        2        0     4 Meat, Fresh, Chilled or Frozen     Fresh or Frozen …\n 13 01.1.2.3           1        1        2        3        0     4 Meat, Dried, Salted in Brine or S… Preserved Meat   \n 14 01.1.2.4           1        1        2        4        0     4 Offal, Blood and Other Parts of S… Offal            \n 15 01.1.2.5           1        1        2        5        0     4 Meat, Offal, Blood and Other Part… Meat Preparations\n 16 01.1.3             1        1        3        0        0     3 Fish and Seafood                   Seafood          \n 17 01.1.3.1           1        1        3        1        0     4 Fish, Live, Fresh, Chilled or Fro… Fresh or Frozen …\n 18 01.1.3.2           1        1        3        2        0     4 Fish, Dried, Salted, in Brine or … Preserved Fish   \n 19 01.1.3.3           1        1        3        3        0     4 Fish Preparations                  Fish Preparations\n 20 01.1.3.4           1        1        3        4        0     4 Other Seafood, Live, Fresh, Chill… Fresh or Frozen …\n 21 01.1.3.5           1        1        3        5        0     4 Other Seafood, Dried, Salted, in … Preserved Other …\n 22 01.1.3.6           1        1        3        6        0     4 Other Seafood Preparations         Other Seafood Pr…\n 23 01.1.3.7           1        1        3        7        0     4 Livers, Roes and Offal of Fish an… Fish Offal       \n 24 01.1.4             1        1        4        0        0     3 Milk, Cheese and Eggs              Dairy            \n 25 01.1.4.1           1        1        4        1        0     4 Raw and Whole Milk                 Whole Milk       \n 26 01.1.4.2           1        1        4        2        0     4 Skimmed Milk                       Skimmed Milk     \n 27 01.1.4.3           1        1        4        3        0     4 Other Milk and Cream               Powdered Milk & …\n 28 01.1.4.4           1        1        4        4        0     4 Non-Animal Milk                    Plant Milk       \n 29 01.1.4.5           1        1        4        5        0     4 Cheese                             Cheese           \n 30 01.1.4.6           1        1        4        6        0     4 Yogurt and Similar Products        Yogurt           \n 31 01.1.4.7           1        1        4        7        0     4 Milk-Based Desert and Beverages    Milk-Based Deser…\n 32 01.1.4.8           1        1        4        8        0     4 Eggs                               Eggs             \n 33 01.1.4.9           1        1        4        9        0     4 Other Dairy Products               Other Dairy      \n 34 01.1.5             1        1        5        0        0     3 Oils and Fats                      Oils & Fats      \n 35 01.1.5.1           1        1        5        1        0     4 Vegetable Oils                     Vegetable Oils   \n 36 01.1.5.2           1        1        5        2        0     4 Butter and Other Fats and Oils De… Butters          \n 37 01.1.5.3           1        1        5        3        0     4 Margarine and Similar Preparations Margarine        \n 38 01.1.5.9           1        1        5        9        0     4 Other Animal Oils and Fats         Animal Fats      \n 39 01.1.6             1        1        6        0        0     3 Fruits                             Fruit            \n 40 01.1.6.1           1        1        6        1        0     4 Dates, Figs and Tropical Fruits, … Tropical Fruits  \n 41 01.1.6.2           1        1        6        2        0     4 Citrus Fruits, Fresh               Citrus Fruits    \n 42 01.1.6.3           1        1        6        3        0     4 Stone Fruits and Pome Fruits, Fre… Stone Fruits     \n 43 01.1.6.4           1        1        6        4        0     4 Berries, Fresh                     Berries          \n 44 01.1.6.5           1        1        6        5        0     4 Other Fruits, Fresh                Other Fruits     \n 45 01.1.6.6           1        1        6        6        0     4 Frozen Fruit                       Frozen Fruit     \n 46 01.1.6.7           1        1        6        7        0     4 Fruit, Dried and Dehydrated        Dehydrated Fruit \n 47 01.1.6.8           1        1        6        8        0     4 Nuts, in Shell or Shelled          Whole Nuts       \n 48 01.1.6.9           1        1        6        9        0     4 Fruit and Nuts Ground and Other P… Fruit and Ground…\n 49 01.1.7             1        1        7        0        0     3 Vegetables                         Vegetables       \n 50 01.1.7.1           1        1        7        1        0     4 Leafy or Stem Vegetables, Fresh o… Leafy Vegetables \n 51 01.1.7.2           1        1        7        2        0     4 Fruit-Bearing Vegetables, Fresh o… Fruit-Bearing Ve…\n 52 01.1.7.3           1        1        7        3        0     4 Green Leguminous Vegetables, Fres… Green Leguminous…\n 53 01.1.7.4           1        1        7        4        0     4 Other Vegetables, Fresh or Chilled Other Vegetables \n 54 01.1.7.5           1        1        7        5        0     4 Tubers, Plantains and Cooking Ban… Starchy Vegetabl…\n 55 01.1.7.6           1        1        7        6        0     4 Pulses                             Pulses           \n 56 01.1.7.7           1        1        7        7        0     4 Other Vegetables, Tubers, Plantai… Dried Starchy Ve…\n 57 01.1.7.8           1        1        7        8        0     4 Vegetables, Tubers, Plantains and… Frozen Starchy V…\n 58 01.1.7.9           1        1        7        9        0     4 Vegetables, Tubers, Plantains, Co… Vegetables Flours\n 59 01.1.8             1        1        8        0        0     3 Sugar, Jam, Honey, Chocolate and … Confectionary    \n 60 01.1.8.1           1        1        8        1        0     4 Cane and Beet Sugar                Sugar            \n 61 01.1.8.2           1        1        8        2        0     4 Other Sugar and Sugar Substitutes  Sugar Substitutes\n 62 01.1.8.3           1        1        8        3        0     4 Jams, Fruit Jellies, Marmalades, … Jams and Honey   \n 63 01.1.8.4           1        1        8        4        0     4 Nut Puree, Nut Butter and Nut Pas… Nut Butter       \n 64 01.1.8.5           1        1        8        5        0     4 Chocolate, Cocoa, and Cocoa-Based… Cocoa            \n 65 01.1.8.6           1        1        8        6        0     4 Ice, Ice Cream and Sorbet          Ice Cream        \n 66 01.1.8.9           1        1        8        9        0     4 Other Sugar Confectionery and Des… Other Desserts   \n 67 01.1.9             1        1        9        0        0     3 Condiments and Other Food Products Food Products    \n 68 01.1.9.1           1        1        9        1        0     4 Ready-Made Food                    Instant Food     \n 69 01.1.9.2           1        1        9        2        0     4 Baby Food                          Baby Food        \n 70 01.1.9.3           1        1        9        4        0     4 Salt, Condiments and Sauces        Condiments       \n 71 01.1.9.5           1        1        9        5        0     4 Spices, Culinary Herbs and Seeds   Spices           \n 72 01.1.9.9           1        1        9        9        0     4 Other Food Products n.e.c.         Other Food Produ…\n 73 01.2               1        2        0        0        0     2 Non-Alcoholic Beverages, Tea and … Non-Alcoholic Dr…\n 74 01.2.1             1        2        1        0        0     3 Coffee, Tea and Cocoa              Coffee & Tea     \n 75 01.2.1.1           1        2        1        1        0     4 Coffee                             Coffee           \n 76 01.2.1.2           1        2        1        2        0     4 Tea                                Tea              \n 77 01.2.1.3           1        2        1        3        0     4 Cocoa                              Cocoa            \n 78 01.2.2             1        2        2        0        0     3 Mineral Waters, Soft Drinks, Frui… Soft Drinks      \n 79 01.2.2.1           1        2        2        1        0     4 Mineral Waters                     Mineral Waters   \n 80 01.2.2.2           1        2        2        2        0     4 Soft Drinks                        Soft Drinks      \n 81 01.2.2.3           1        2        2        3        0     4 Fruit and Vegetable Juices         Juices           \n 82 01.2.2.4           1        2        2        4        0     4 Other Non-Alcoholic Drinks         Other Soft Drinks\n 83 02                 2        0        0        0        0     1 Alcoholic Beverages, Tobacco, and… Alcohol          \n 84 02.1               2        1        0        0        0     2 Alcoholic Beverages                Alcoholic Bevera…\n 85 02.1.1             2        1        1        0        0     3 Spirits                            Spirits          \n 86 02.1.2             2        1        2        0        0     3 Wine                               Wine             \n 87 02.1.3             2        1        3        0        0     3 Beer                               Beer             \n 88 02.2               2        2        0        0        0     2 Tobacco                            Tobacco          \n 89 02.3               2        3        0        0        0     2 Narcotics                          Narcotics        \n 90 03                 3        0        0        0        0     1 Clothing and Footwear              Clothing         \n 91 03.1               3        1        0        0        0     2 Clothing                           Clothing         \n 92 03.1.1             3        1        1        0        0     3 Clothing Materials                 Materials        \n 93 03.1.2             3        1        2        0        0     3 Garments                           Clothes          \n 94 03.1.3             3        1        3        0        0     3 Other Articles of Clothing and Cl… Accessories      \n 95 03.1.4             3        1        4        0        0     3 Cleaning, Repair and Hire of Clot… Clothing Repair  \n 96 03.2               3        2        0        0        0     2 Footwear                           Footwear         \n 97 03.2.1             3        2        1        0        0     3 Shoes and Other Footwear           Shoes            \n 98 03.2.2             3        2        2        0        0     3 Repair and Hire of Footwear        Shoe Repair      \n 99 04                 4        0        0        0        0     1 Housing, Water, Electricity, Gas … Housing          \n100 04.1               4        1        0        0        0     2 Actual Rentals for Housing         Rents            \n101 04.1.1             4        1        1        0        0     3 Actual Rentals Paid By Tenants     Rents            \n102 04.1.2             4        1        2        0        0     3 Other Actual Rentals               Rents            \n103 04.2               4        2        0        0        0     2 Imputed Rentals for Housing        Rents            \n104 04.2.1             4        2        1        0        0     3 Imputed Rentals of Owner-Occupiers Rents            \n105 04.2.2             4        2        2        0        0     3 Other Imputed Rentals              Rents            \n106 04.3               4        3        0        0        0     2 Maintenance and Repair of the Dwe… Maintenance      \n107 04.3.1             4        3        1        0        0     3 Materials for the Maintenance and… Maintenance Mate…\n108 04.3.2             4        3        2        0        0     3 Services for the Maintenance and … Maintenance Serv…\n109 04.4               4        4        0        0        0     2 Water Supply and Miscellaneous Se… Water            \n110 04.4.1             4        4        1        0        0     3 Water Supply                       Water            \n111 04.4.2             4        4        2        0        0     3 Refuse Collection                  Refuse           \n112 04.4.3             4        4        3        0        0     3 Sewerage Collection                Sewage           \n113 04.4.4             4        4        4        0        0     3 Other Services Relating To the Dw… Other Supply     \n114 04.5               4        5        0        0        0     2 Electricity, Gas and Other Fuels   Fuels            \n115 04.5.1             4        5        1        0        0     3 Electricity                        Electricity      \n116 04.5.2             4        5        2        0        0     3 Gas                                Gas              \n117 04.5.3             4        5        3        0        0     3 Liquid Fuels                       Liquid Fuel      \n118 04.5.4             4        5        4        0        0     3 Solid Fuels                        Solid Fuel       \n119 04.5.5             4        5        5        0        0     3 Heat Energy                        Other Energy     \n120 05                 5        0        0        0        0     1 Furnishings, Household Equipment … Furnishings      \n121 05.1               5        1        0        0        0     2 Furniture and Furnishings, Carpet… Furnishings      \n122 05.1.1             5        1        1        0        0     3 Furniture and Furnishings          Furniture        \n123 05.1.2             5        1        2        0        0     3 Carpets and Other Floor Coverings  Carpets          \n124 05.1.3             5        1        3        0        0     3 Repair of Furniture, Furnishings … Furniture Repair \n125 05.2               5        2        0        0        0     2 Household Textiles                 Textiles         \n126 05.3               5        3        0        0        0     2 Household Appliances               Appliances       \n127 05.3.1             5        3        1        0        0     3 Major Household Appliance Whether… Major Appliances \n128 05.3.2             5        3        2        0        0     3 Small Electric Household Appliance Small Appliances \n129 05.3.3             5        3        3        0        0     3 Repair of Household Appliance      Appliance Repair \n130 05.4               5        4        0        0        0     2 Glassware, Tableware and Househol… Dishes           \n131 05.5               5        5        0        0        0     2 Tools and Equipment for House and… Tools            \n132 05.5.1             5        5        1        0        0     3 Major Tools and Equipment          Tableware        \n133 05.5.2             5        5        2        0        0     3 Small Tools and Miscellaneous Acc… Household Tools  \n134 05.6               5        6        0        0        0     2 Goods and Services for Routine Ho… Maintenance Serv…\n135 05.6.1             5        6        1        0        0     3 Non-Durable Household Goods        Household Non-Du…\n136 05.6.2             5        6        2        0        0     3 Domestic Services and Household S… Household Servic…\n137 06                 6        0        0        0        0     1 Health                             Health           \n138 06.1               6        1        0        0        0     2 Medical Products, Appliances and … Medical Supplies \n139 06.1.1             6        1        1        0        0     3 Pharmaceutical Products            Medicines        \n140 06.1.2             6        1        2        0        0     3 Other Medical Products             Medical Products \n141 06.1.3             6        1        3        0        0     3 Therapeutic Appliances and Equipm… Medical Equipment\n142 06.2               6        2        0        0        0     2 Out-Patient Services               Out-Patient Serv…\n143 06.2.1             6        2        1        0        0     3 Medical Services                   Medical Services \n144 06.2.2             6        2        2        0        0     3 Dental Services                    Dental           \n145 06.2.3             6        2        3        0        0     3 Paramedical Services               Paramedical      \n146 06.3               6        3        0        0        0     2 Hospital Services                  Hospital Services\n147 07                 7        0        0        0        0     1 Transport                          Transport        \n148 07.1               7        1        0        0        0     2 Purchase of Vehicles               Vehicles         \n149 07.1.1             7        1        1        0        0     3 Motor Cars                         Cars             \n150 07.1.2             7        1        2        0        0     3 Motor Cycles                       Motorcycles      \n151 07.1.3             7        1        3        0        0     3 Bicycles                           Bicycles         \n152 07.1.4             7        1        4        0        0     3 Animal Drawn Vehicles              Animal Carts     \n153 07.2               7        2        0        0        0     2 Operation of Personal Transport E… Vehicle Operation\n154 07.2.1             7        2        1        0        0     3 Spare Parts and Accessories for P… Parts            \n155 07.2.2             7        2        2        0        0     3 Fuels and Lubricants for Personal… Fuel             \n156 07.2.3             7        2        3        0        0     3 Maintenance and Repair of Persona… Maintenance      \n157 07.2.4             7        2        4        0        0     3 Other Services In Respect of Pers… Services         \n158 07.3               7        3        0        0        0     2 Transport Services                 Transport Servic…\n159 07.3.1             7        3        1        0        0     3 Passenger Transport By Railway     Railway Travel   \n160 07.3.2             7        3        2        0        0     3 Passenger Transport By Road        Road Travel      \n161 07.3.3             7        3        3        0        0     3 Passenger Transport By Air         Air Travel       \n162 07.3.4             7        3        4        0        0     3 Passenger Transport By Sea and In… Sea Travel       \n163 07.3.5             7        3        5        0        0     3 Combined Passenger Transport       Other Travel     \n164 07.3.6             7        3        6        0        0     3 Other Purchased Transport Services Other Travel     \n165 08                 8        0        0        0        0     1 Communications                     Comms            \n166 08.1               8        1        0        0        0     2 Postal Services                    Postal           \n167 08.2               8        2        0        0        0     2 Telephone and Digital Equipment    Phone Equipment  \n168 08.3               8        3        0        0        0     2 Telephone and Digital Service      Phone Services   \n169 09                 9        0        0        0        0     1 Recreation and Culture             Recreation       \n170 09.1               9        1        0        0        0     2 Audio-Visual, Photographic and In… AV Equipment     \n171 09.1.1             9        1        1        0        0     3 Equipment for the Reception, Reco… Major Durables   \n172 09.1.2             9        1        2        0        0     3 Photographic and Cinematographic … Cameras          \n173 09.1.3             9        1        3        0        0     3 Information Processing Equipment   Computers        \n174 09.1.4             9        1        4        0        0     3 Recording Media                    Recording Media  \n175 09.1.5             9        1        5        0        0     3 Repair of Audio-Visual, Photograp… Recreational Rep…\n176 09.2               9        2        0        0        0     2 Other Major Durables for Recreati… Recreation Durab…\n177 09.2.1             9        2        1        0        0     3 Major Durables for Outdoor Recrea… Outdoor Durables \n178 09.2.2             9        2        2        0        0     3 Musical Instruments and Major Dur… Indoor Durables  \n179 09.2.3             9        2        3        0        0     3 Maintenance and Repair of Other M… Durable Repair   \n180 09.3               9        3        0        0        0     2 Other Recreational Items and Equi… Other Recreation…\n181 09.3.1             9        3        1        0        0     3 Games, Toys and Hobbies            Games & Toys     \n182 09.3.2             9        3        2        0        0     3 Equipment for Sport, Camping and … Sporting Equipme…\n183 09.3.3             9        3        3        0        0     3 Gardens, Plants and Flowers        Gardening        \n184 09.3.4             9        3        4        0        0     3 Pets and Related Products          Pets             \n185 09.3.5             9        3        5        0        0     3 Veterinary and Other Services for… Vets             \n186 09.4               9        4        0        0        0     2 Recreational and Cultural Services Culture and Rec  \n187 09.4.1             9        4        1        0        0     3 Recreational and Sporting Services Sports Services  \n188 09.4.2             9        4        2        0        0     3 Cultural Services                  Cultural Services\n189 09.4.3             9        4        3        0        0     3 Games of Chance                    Game of Chance   \n190 09.5               9        5        0        0        0     2 Newspapers, Books and Stationery   Reading          \n191 09.5.1             9        5        1        0        0     3 Books                              Books            \n192 09.5.2             9        5        2        0        0     3 Newspapers and Periodicals         Newspapers       \n193 09.5.3             9        5        3        0        0     3 Miscellaneous Printed Matter       Other Print      \n194 09.5.4             9        5        4        0        0     3 Stationery and Drawing Materials   Stationary       \n195 09.6               9        6        0        0        0     2 Package Holidays                   Package Holidays \n196 10                10        0        0        0        0     1 Education                          Education        \n197 10.1              10        1        0        0        0     2 Pre-Primary and Primary Education  Primary          \n198 10.2              10        2        0        0        0     2 Secondary Education                Secondary        \n199 10.3              10        3        0        0        0     2 Post-Secondary Non-Tertiary Educa… University       \n200 10.4              10        4        0        0        0     2 Tertiary Education                 University       \n201 10.5              10        5        0        0        0     2 Education Not Definable By Level   Adult            \n202 11                11        0        0        0        0     1 Restaurants and Hotels             Restaurants      \n203 11.1              11        1        0        0        0     2 Catering Services                  Catering         \n204 11.1.1            11        1        1        0        0     3 Restaurants, Cafes and the Like    Restaurants      \n205 11.1.2            11        1        2        0        0     3 Canteens                           Canteens         \n206 11.2              11        2        0        0        0     2 Accommodation Services             Accommodation    \n207 12                12        0        0        0        0     1 Miscellaneous Goods and Services   Misc             \n208 12.1              12        1        0        0        0     2 Personal Care                      Personal Care    \n209 12.1.1            12        1        1        0        0     3 Hairdressing Salons and Personal … Personal Care Se…\n210 12.1.2            12        1        2        0        0     3 Electrical Appliances for Persona… Personal Care Du…\n211 12.1.3            12        1        3        0        0     3 Other Appliances, Articles and Pr… Personal Care Pr…\n212 12.1.3.1          12        1        3        1        0     4 Beauty                             Beauty           \n213 12.1.3.1.1        12        1        3        1        1     5 Hair Care                          Hair Care        \n214 12.1.3.1.2        12        1        3        1        2     5 Skin Care                          Skin Care        \n215 12.1.3.1.3        12        1        3        1        3     5 Fragrances                         Fragrances       \n216 12.1.3.1.4        12        1        3        1        4     5 Hygiene                            Hygiene          \n217 12.1.3.1.5        12        1        3        1        5     5 Make-Up                            Make-Up          \n218 12.1.3.2          12        1        3        2        0     4 Other Personal Care Items          Other Personal C…\n219 12.2              12        2        0        0        0     2 Prostitution                       Prostitution     \n220 12.3              12        3        0        0        0     2 Personal Effects                   Personal Effects \n221 12.3.1            12        3        1        0        0     3 Jewelry, Clocks and Watches        Jewelery         \n222 12.3.2            12        3        2        0        0     3 Other Personal Effects             Other Personal E…\n223 12.4              12        4        0        0        0     2 Social Protection                  Social Protection\n224 12.5              12        5        0        0        0     2 Insurance                          Insurance        \n225 12.5.1            12        5        1        0        0     3 Life Insurance                     Life Insurance   \n226 12.5.2            12        5        2        0        0     3 Insurance Connected With the Dwel… Home Insurance   \n227 12.5.3            12        5        3        0        0     3 Insurance Connected With Health    Health Insurance \n228 12.5.4            12        5        4        0        0     3 Insurance Connected With Transport Travel Insurance \n229 12.5.5            12        5        5        0        0     3 Other Insurance                    Other Insurance  \n230 12.6              12        6        0        0        0     2 Financial Services                 Financial Servic…\n231 12.6.1            12        6        1        0        0     3 Financial Intermediation Services  Financial Servic…\n232 12.6.2            12        6        2        0        0     3 Other Financial Services           Other Services   \n233 12.7              12        7        0        0        0     2 Other Services                     Other Services   "
 
-coicop_labels_str_stripped <- "coicop_code description                                                                                            
-<chr>       <chr>                                                                                                  
-01          Food and Non-Alcoholic Beverages                                                                       
-01.1        Food                                                                                                   
-01.1.1      Bread and Cereals                                                                                                                                                       
-01.1.2      Meat                                                                                                                               
-01.1.3      Fish and Seafood                                                                                                                          
-01.1.4      Milk, Cheese and Eggs                                                                                                                                                               
-01.1.5      Oils and Fats                                                                                                                                                                   
-01.1.6      Fruits                                                                                                                                                       
-01.1.7      Vegetables                                                                                                            
-01.1.8      Sugar, Jam, Honey, Chocolate and Confectionery                                                                                                               
-01.1.9      Condiments and Other Food Products                                                                                                                                           
-01.2        Non-Alcoholic Beverages, Tea and Cocoa                                                                 
-01.2.1      Coffee, Tea and Cocoa                                                                                                                                                                                 
-01.2.2      Mineral Waters, Soft Drinks, Fruit and Vegetable Juices                                                                                                                           
-02          Alcoholic Beverages, Tobacco, and Narcotics                                                            
-02.1        Alcoholic Beverages                                                                                    
-02.1.1      Spirits                                                                                                
-02.1.2      Wine                                                                                                   
-02.1.3      Beer                                                                                                   
-02.2        Tobacco                                                                                                
-02.3        Narcotics                                                                                              
-03          Clothing and Footwear                                                                                  
-03.1        Clothing                                                                                               
-03.1.1      Clothing Materials                                                                                     
-03.1.2      Garments                                                                                               
-03.1.3      Other Articles of Clothing and Clothing Accessories                                                    
-03.1.4      Cleaning, Repair and Hire of Clothing                                                                  
-03.2        Footwear                                                                                               
-03.2.1      Shoes and Other Footwear                                                                               
-03.2.2      Repair and Hire of Footwear                                                                            
-04          Housing, Water, Electricity, Gas and Other Fuels                                                       
-04.1        Actual Rentals for Housing                                                                             
-04.1.1      Actual Rentals Paid By Tenants                                                                         
-04.1.2      Other Actual Rentals                                                                                   
-04.2        Imputed Rentals for Housing                                                                            
-04.2.1      Imputed Rentals of Owner-Occupiers                                                                     
-04.2.2      Other Imputed Rentals                                                                                  
-04.3        Maintenance and Repair of the Dwelling                                                                 
-04.3.1      Materials for the Maintenance and Repair of the Dwelling                                               
-04.3.2      Services for the Maintenance and Repair of the Dwelling                                                
-04.4        Water Supply and Miscellaneous Services Relating To the Dwelling                                       
-04.4.1      Water Supply                                                                                           
-04.4.2      Refuse Collection                                                                                      
-04.4.3      Sewerage Collection                                                                                    
-04.4.4      Other Services Relating To the Dwelling                                                                
-04.5        Electricity, Gas and Other Fuels                                                                       
-04.5.1      Electricity                                                                                            
-04.5.2      Gas                                                                                                    
-04.5.3      Liquid Fuels                                                                                           
-04.5.4      Solid Fuels                                                                                            
-04.5.5      Heat Energy                                                                                            
-05          Furnishings, Household Equipment and Routine Household Maintenance                                     
-05.1        Furniture and Furnishings, Carpets and Other Floor Coverings                                           
-05.1.1      Furniture and Furnishings                                                                              
-05.1.2      Carpets and Other Floor Coverings                                                                      
-05.1.3      Repair of Furniture, Furnishings and Floor Coverings                                                   
-05.2        Household Textiles                                                                                     
-05.3        Household Appliances                                                                                   
-05.3.1      Major Household Appliance Whether Electric or Not                                                      
-05.3.2      Small Electric Household Appliance                                                                     
-05.3.3      Repair of Household Appliance                                                                          
-05.4        Glassware, Tableware and Household Utensils                                                            
-05.5        Tools and Equipment for House and Garden                                                               
-05.5.1      Major Tools and Equipment                                                                              
-05.5.2      Small Tools and Miscellaneous Accessories                                                              
-05.6        Goods and Services for Routine Household Maintenance                                                   
-05.6.1      Non-Durable Household Goods                                                                            
-05.6.2      Domestic Services and Household Services                                                               
-06          Health                                                                                                 
-06.1        Medical Products, Appliances and Equipment                                                             
-06.1.1      Pharmaceutical Products                                                                                
-06.1.2      Other Medical Products                                                                                 
-06.1.3      Therapeutic Appliances and Equipment                                                                   
-06.2        Out-Patient Services                                                                                   
-06.2.1      Medical Services                                                                                       
-06.2.2      Dental Services                                                                                        
-06.2.3      Paramedical Services                                                                                   
-06.3        Hospital Services                                                                                      
-07          Transport                                                                                              
-07.1        Purchase of Vehicles                                                                                   
-07.1.1      Motor Cars                                                                                             
-07.1.2      Motor Cycles                                                                                           
-07.1.3      Bicycles                                                                                               
-07.1.4      Animal Drawn Vehicles                                                                                  
-07.1.5      Other Vehicles                                                                                         
-07.2        Operation of Personal Transport Equipment                                                              
-07.2.1      Spare Parts and Accessories for Personal Transport Equipment                                           
-07.2.2      Fuels and Lubricants for Personal Transport Equipment                                                  
-07.2.3      Maintenance and Repair of Personal Transport Equipment                                                 
-07.2.4      Other Services In Respect of Personal Transport Equipment                                              
-07.3        Transport Services                                                                                     
-07.3.1      Passenger Transport by Railway                                                                         
-07.3.2      Passenger Transport by Road                                                                            
-07.3.3      Passenger Transport by Air                                                                             
-07.3.4      Passenger Transport by Sea and Inland Waterway                                                         
-07.3.5      Combined Passenger Transport                                                                           
-07.3.6      Other Purchased Transport Services                                                                     
-08          Communication                                                                                          
-08.1        Postal Services                                                                                        
-08.2        Telephone and Telefax Equipment                                                                        
-08.3        Telephone and Telefax Services                                                                         
-09          Recreation and Culture                                                                                 
-09.1        Audio-Visual, Photographic and Information Processing Equipment                                        
-09.1.1      Equipment for The Reception, Recording and Reproduction of Sound and Pictures                          
-09.1.2      Photographic and Cinematographic Equipment and Optical Instruments                                     
-09.1.3      Information Processing Equipment                                                                       
-09.1.4      Recording Media                                                                                        
-09.1.5      Repair of Audio-Visual, Photographic and Information Processing Equipment                              
-09.2        Other Major Durables for Recreation and Culture                                                        
-09.3        Other Recreational Items and Equipment, Gardens and Pets                                               
-09.3.1      Games, Toys and Hobbies                                                                                
-09.3.2      Equipment for Sport, Camping and Open-Air Recreation                                                   
-09.3.3      Gardens, Plants and Flowers                                                                            
-09.3.4      Pets and Related Products                                                                              
-09.3.5      Veterinary and Other Services for Pets                                                                 
-09.4        Recreational and Cultural Services                                                                     
-09.4.1      Recreational and Sporting Services                                                                     
-09.4.2      Cultural Services                                                                                      
-09.5        Newspapers, Books and Stationery                                                                       
-09.5.1      Books                                                                                                  
-09.5.2      Newspapers and Periodicals                                                                             
-09.5.3      Miscellaneous Printed Matter                                                                           
-09.5.4      Stationery and Drawing Materials                                                                       
-09.6        Package Holidays                                                                                       
-10          Education                                                                                              
-10.1        Pre-Primary and Primary Education                                                                      
-10.2        Secondary Education                                                                                    
-10.3        Post-Secondary Non-Tertiary Education                                                                  
-10.4        Tertiary Education                                                                                     
-10.5        Education Not Definable by Level                                                                       
-11          Restaurants and Hotels                                                                                 
-11.1        Catering Services                                                                                      
-11.1.1      Restaurants, Cafes and the Like                                                                        
-11.1.2      Canteens                                                                                               
-11.2        Accommodation Services                                                                                 
-12          Miscellaneous Goods and Services                                                                       
-12.1        Personal Care                                                                                          
-12.1.1      Hairdressing Salons and Personal Grooming Establishments                                               
-12.1.2      Electric Appliances for Personal Care                                                                  
-12.1.3      Other Appliances, Articles and Products for Personal Care                                              
-12.1.4      Other Personal Care Services                                                                           
-12.2        Prostitution                                                                                           
-12.3        Personal Effects                                                                      
-12.3.1      Jewellery, Clocks and Watches                                                                          
-12.3.2      Other Personal Effects                                                                                 
-12.4        Social Protection                                                                                      
-12.4.1      Child Care Services                                                                                    
-12.4.2      Retirement Homes for Elderly and Disabled Persons                                                      
-12.4.3      Home Help Services                                                                                     
-12.4.4      Other Social Protection Services                                                                       
-12.5        Insurance                                                                                              
-12.5.1      Insurance Connected with the Dwelling                                                                  
-12.5.2      Insurance Connected with Health                                                                        
-12.5.3      Insurance Connected with Transport                                                                     
-12.5.4      Other Insurance                                                                                        
-12.6        Financial Services                                                                            
-12.6.1      FISIM                                                                                                  
-12.6.2      Other Financial Services                                                                     
+coicop_labels_str_stripped <- "coicop_code description
+<chr>       <chr>
+01          Food and Non-Alcoholic Beverages
+01.1        Food
+01.1.1      Bread and Cereals
+01.1.1.1	Cereals
+01.1.1.2	Flour
+01.1.1.3	Baked Goods
+01.1.1.4	Breakfast Cereals
+01.1.1.5	Pasta
+01.1.1.9	Cereals
+01.1.2      Meat
+01.1.2.1	Live Animals
+01.1.2.2	Fresh or Frozen Meat
+01.1.2.3	Preserved Meat
+01.1.2.4	Offal
+01.1.2.5	Meat Preparations
+01.1.3      Fish and Seafood
+01.1.3.1	Fresh or Frozen Fish
+01.1.3.2	Preserved Fish
+01.1.3.3	Fish Preparations
+01.1.3.4	Fresh or Frozen Other Seafood
+01.1.3.5	Preserved Other Seafood
+01.1.3.6	Other Seafood Preparations
+01.1.3.7	Fish Offal
+01.1.4      Milk, Cheese and Eggs
+01.1.4.1	Whole Milk
+01.1.4.2	Skimmed Milk
+01.1.4.3	Powdered Milk & Cream
+01.1.4.4	Plant Milk
+01.1.4.5	Cheese
+01.1.4.6	Yogurt
+01.1.4.7	Milk-Based Deserts
+01.1.4.8	Eggs
+01.1.4.9	Other Dairy
+01.1.5      Oils and Fats
+01.1.5.1	Vegetable Oils
+01.1.5.2	Butters
+01.1.5.3	Margarine
+01.1.5.9	Animal Fats
+01.1.6      Fruits
+01.1.6.1	Tropical Fruits
+01.1.6.2	Citrus Fruits
+01.1.6.3	Stone Fruits
+01.1.6.4	Berries
+01.1.6.5	Other Fruits
+01.1.6.6	Frozen Fruit
+01.1.6.7	Dehydrated Fruit
+01.1.6.8	Whole Nuts
+01.1.6.9	Fruit and Ground Nuts
+01.1.7      Vegetables
+01.1.7.1	Leafy Vegetables
+01.1.7.2	Fruit-Bearing Vegetables
+01.1.7.3	Green Leguminous Vegetables
+01.1.7.4	Other Vegetables
+01.1.7.5	Starchy Vegetables
+01.1.7.6	Pulses
+01.1.7.7	Dried Starchy Vegetables
+01.1.7.8	Frozen Starchy Vegetables
+01.1.7.9	Vegetables Flours
+01.1.8      Sugar, Jam, Honey, Chocolate and Confectionery
+01.1.8.1	Sugar
+01.1.8.2	Sugar Substitutes
+01.1.8.3	Jams and Honey
+01.1.8.4	Nut Butter
+01.1.8.5	Cocoa
+01.1.8.6	Ice Cream
+01.1.8.9	Other Desserts
+01.1.9      Condiments and Other Food Products
+01.1.9.1	Instant Food
+01.1.9.2	Baby Food
+01.1.9.3	Condiments
+01.1.9.4	Spices
+01.1.9.9	Other Food Products
+01.2        Non-Alcoholic Beverages, Tea and Cocoa
+01.2.1      Coffee, Tea and Cocoa
+01.2.1.1	Coffee
+01.2.1.2	Tea
+01.2.1.3	Cocoa
+01.2.2      Mineral Waters, Soft Drinks, Fruit and Vegetable Juices
+01.2.2.1	Mineral Waters
+01.2.2.2	Soft Drinks
+01.2.2.3	Juices
+01.2.2.4	Other Soft Drinks
+02          Alcoholic Beverages, Tobacco, and Narcotics
+02.1        Alcoholic Beverages
+02.1.1      Spirits
+02.1.2      Wine
+02.1.3      Beer
+02.2        Tobacco
+02.3        Narcotics
+03          Clothing and Footwear
+03.1        Clothing
+03.1.1      Clothing Materials
+03.1.2      Garments
+03.1.3      Other Articles of Clothing and Clothing Accessories
+03.1.4      Cleaning, Repair and Hire of Clothing
+03.2        Footwear
+03.2.1      Shoes and Other Footwear
+03.2.2      Repair and Hire of Footwear
+04          Housing, Water, Electricity, Gas and Other Fuels
+04.1        Actual Rentals for Housing
+04.1.1      Actual Rentals Paid By Tenants
+04.1.2      Other Actual Rentals
+04.2        Imputed Rentals for Housing
+04.2.1      Imputed Rentals of Owner-Occupiers
+04.2.2      Other Imputed Rentals
+04.3        Maintenance and Repair of the Dwelling
+04.3.1      Materials for the Maintenance and Repair of the Dwelling
+04.3.2      Services for the Maintenance and Repair of the Dwelling
+04.4        Water Supply and Miscellaneous Services Relating To the Dwelling
+04.4.1      Water Supply
+04.4.2      Refuse Collection
+04.4.3      Sewerage Collection
+04.4.4      Other Services Relating To the Dwelling
+04.5        Electricity, Gas and Other Fuels
+04.5.1      Electricity
+04.5.2      Gas
+04.5.3      Liquid Fuels
+04.5.4      Solid Fuels
+04.5.5      Heat Energy
+05          Furnishings, Household Equipment and Routine Household Maintenance
+05.1        Furniture and Furnishings, Carpets and Other Floor Coverings
+05.1.1      Furniture and Furnishings
+05.1.2      Carpets and Other Floor Coverings
+05.1.3      Repair of Furniture, Furnishings and Floor Coverings
+05.2        Household Textiles
+05.3        Household Appliances
+05.3.1      Major Household Appliance Whether Electric or Not
+05.3.2      Small Electric Household Appliance
+05.3.3      Repair of Household Appliance
+05.4        Glassware, Tableware and Household Utensils
+05.5        Tools and Equipment for House and Garden
+05.5.1      Major Tools and Equipment
+05.5.2      Small Tools and Miscellaneous Accessories
+05.6        Goods and Services for Routine Household Maintenance
+05.6.1      Non-Durable Household Goods
+05.6.2      Domestic Services and Household Services
+06          Health
+06.1        Medical Products, Appliances and Equipment
+06.1.1      Pharmaceutical Products
+06.1.2      Other Medical Products
+06.1.2.1	Contraception
+06.1.2.2	Other Medical Products
+06.1.3      Therapeutic Appliances and Equipment
+06.2        Out-Patient Services
+06.2.1      Medical Services
+06.2.2      Dental Services
+06.2.3      Paramedical Services
+06.3        Hospital Services
+07          Transport
+07.1        Purchase of Vehicles
+07.1.1      Motor Cars
+07.1.2      Motor Cycles
+07.1.3      Bicycles
+07.1.4      Animal Drawn Vehicles
+07.1.5      Other Vehicles
+07.2        Operation of Personal Transport Equipment
+07.2.1      Spare Parts and Accessories for Personal Transport Equipment
+07.2.2      Fuels and Lubricants for Personal Transport Equipment
+07.2.3      Maintenance and Repair of Personal Transport Equipment
+07.2.4      Other Services In Respect of Personal Transport Equipment
+07.3        Transport Services
+07.3.1      Passenger Transport by Railway
+07.3.1.1	Train Travel
+07.3.1.2	Metro Travel
+07.3.2      Passenger Transport by Road
+07.3.2.1	Bus Travel
+07.3.2.2	Taxi Travel
+07.3.3      Passenger Transport by Air
+07.3.3.1	Domestic Flights
+07.3.3.2	International Flights
+07.3.4      Passenger Transport by Sea and Inland Waterway
+07.3.4.1	Sea Travel
+07.3.4.2	Inland Water Travel
+07.3.5      Combined Passenger Transport
+07.3.6      Other Purchased Transport Services
+08          Communication
+08.1        Postal Services
+08.2        Telephone and Telefax Equipment
+08.3        Telephone and Telefax Services
+09          Recreation and Culture
+09.1        Audio-Visual, Photographic and Information Processing Equipment
+09.1.1      Equipment for The Reception, Recording and Reproduction of Sound and Pictures
+09.1.2      Photographic and Cinematographic Equipment and Optical Instruments
+09.1.3      Information Processing Equipment
+09.1.4      Recording Media
+09.1.5      Repair of Audio-Visual, Photographic and Information Processing Equipment
+09.2        Other Major Durables for Recreation and Culture
+09.3        Other Recreational Items and Equipment, Gardens and Pets
+09.3.1      Games, Toys and Hobbies
+09.3.2      Equipment for Sport, Camping and Open-Air Recreation
+09.3.3      Gardens, Plants and Flowers
+09.3.4      Pets and Related Products
+09.3.5      Veterinary and Other Services for Pets
+09.4        Recreational and Cultural Services
+09.4.1      Recreational and Sporting Services
+09.4.2      Cultural Services
+09.5        Newspapers, Books and Stationery
+09.5.1      Books
+09.5.2      Newspapers and Periodicals
+09.5.3      Miscellaneous Printed Matter
+09.5.4      Stationery and Drawing Materials
+09.6        Package Holidays
+10          Education
+10.1        Pre-Primary and Primary Education
+10.2        Secondary Education
+10.3        Post-Secondary Non-Tertiary Education
+10.4        Tertiary Education
+10.5        Education Not Definable by Level
+11          Restaurants and Hotels
+11.1        Catering Services
+11.1.1      Restaurants, Cafes and the Like
+11.1.1.1	Food Outside
+11.1.1.2	Coffee Outside
+11.1.1.3	Fast Food
+11.1.1.4	Alcohol Outside
+11.1.2      Canteens
+11.2        Accommodation Services
+12          Miscellaneous Goods and Services
+12.1        Personal Care
+12.1.1      Hairdressing Salons and Personal Grooming Establishments
+12.1.2      Electric Appliances for Personal Care
+12.1.3      Other Appliances, Articles and Products for Personal Care
+12.1.3.1	Beauty Products
+12.1.3.2	Other Personal Care
+12.1.4      Other Personal Care Services
+12.2        Prostitution
+12.3        Personal Effects
+12.3.1      Jewellery, Clocks and Watches
+12.3.2      Other Personal Effects
+12.4        Social Protection
+12.4.1      Child Care Services
+12.4.2      Retirement Homes for Elderly and Disabled Persons
+12.4.3      Home Help Services
+12.4.4      Other Social Protection Services
+12.5        Insurance
+12.5.1      Insurance Connected with the Dwelling
+12.5.2      Insurance Connected with Health
+12.5.3      Insurance Connected with Transport
+12.5.4      Other Insurance
+12.6        Financial Services
+12.6.1      FISIM
+12.6.2      Other Financial Services
 12.7.1      Other Services
 13          Non-Household expenditures (income, taxes, donations, contributions, gifts, miscellaneous fees, loan payments, etc.)"
 
@@ -1723,7 +1807,91 @@ documents;
 astrologers, private detectives, bodyguards,
 matrimonial agencies and marriage guidance
 counsellors, public writers, miscellaneous
-concessions (seats, toilets, cloakrooms), etc."
+concessions (seats, toilets, cloakrooms), etc.
+01.1.1.1	Cereals
+01.1.1.2	Flour of Cereals
+01.1.1.3	Bread and Bakery Products
+01.1.1.4	Breakfast Cereals
+01.1.1.5	Macaroni, Noodles, Couscous and Similar Pasta Products
+01.1.1.9	Other Cereal and Grain Mill Products
+01.1.2.1	Live Land Animals
+01.1.2.2	Meat, Fresh, Chilled or Frozen
+01.1.2.3	Meat, Dried, Salted in Brine or Smoked
+01.1.2.4	Offal, Blood and Other Parts of Slaughtered Animals, Fresh, Chilled or Frozen, Dried, Salted, in Brine or Smoked
+01.1.2.5	Meat, Offal, Blood and Other Parts of Slaughtered Animals' Preparations
+01.1.3.1	Fish, Live, Fresh, Chilled or Frozen
+01.1.3.2	Fish, Dried, Salted, in Brine or Smoked
+01.1.3.3	Fish Preparations
+01.1.3.4	Other Seafood, Live, Fresh, Chilled or Frozen
+01.1.3.5	Other Seafood, Dried, Salted, in Brine or Smoked
+01.1.3.6	Other Seafood Preparations
+01.1.3.7	Livers, Roes and Offal of Fish and Other Seafood in all Forms
+01.1.4.1	Raw and Whole Milk
+01.1.4.2	Skimmed Milk
+01.1.4.3	Other Milk and Cream
+01.1.4.4	Non-Animal Milk
+01.1.4.5	Cheese
+01.1.4.6	Yogurt and Similar Products
+01.1.4.7	Milk-Based Desert and Beverages
+01.1.4.8	Eggs
+01.1.4.9	Other Dairy Products
+01.1.5.1	Vegetable Oils
+01.1.5.2	Butter and Other Fats and Oils Derived from Milk
+01.1.5.3	Margarine and Similar Preparations
+01.1.5.9	Other Animal Oils and Fats
+01.1.6.1	Dates, Figs and Tropical Fruits, Fresh
+01.1.6.2	Citrus Fruits, Fresh
+01.1.6.3	Stone Fruits and Pome Fruits, Fresh
+01.1.6.4	Berries, Fresh
+01.1.6.5	Other Fruits, Fresh
+01.1.6.6	Frozen Fruit
+01.1.6.7	Fruit, Dried and Dehydrated
+01.1.6.8	Nuts, in Shell or Shelled
+01.1.6.9	Fruit and Nuts Ground and Other Preparations
+01.1.7.1	Leafy or Stem Vegetables, Fresh or Chilled
+01.1.7.2	Fruit-Bearing Vegetables, Fresh or Chilled
+01.1.7.3	Green Leguminous Vegetables, Fresh or Chilled
+01.1.7.4	Other Vegetables, Fresh or Chilled
+01.1.7.5	Tubers, Plantains and Cooking Bananas
+01.1.7.6	Pulses
+01.1.7.7	Other Vegetables, Tubers, Plantains and Cooking Bananas, Dried and Dehydrated
+01.1.7.8	Vegetables, Tubers, Plantains and Cooking Bananas, Frozen
+01.1.7.9	Vegetables, Tubers, Plantains, Cooking Bananas and Pulses Ground and Other Preparations
+01.1.8.1	Cane and Beet Sugar
+01.1.8.2	Other Sugar and Sugar Substitutes
+01.1.8.3	Jams, Fruit Jellies, Marmalades, Fruit Puree and Pastes, Honey
+01.1.8.4	Nut Puree, Nut Butter and Nut Pastes
+01.1.8.5	Chocolate, Cocoa, and Cocoa-Based Food Products
+01.1.8.6	Ice, Ice Cream and Sorbet
+01.1.8.9	Other Sugar Confectionery and Desserts n.e.c.
+01.1.9.1	Ready-Made Food
+01.1.9.2	Baby Food
+01.1.9.3	Salt, Condiments and Sauces
+01.1.9.4	Spices, Culinary Herbs and Seeds
+01.1.9.9	Other Food Products n.e.c.
+01.2.1.1	Coffee
+01.2.1.2	Tea
+01.2.1.3	Cocoa
+01.2.2.1	Mineral Waters
+01.2.2.2	Soft Drinks
+01.2.2.3	Fruit and Vegetable Juices
+01.2.2.4	Other Non-Alcoholic Drinks
+06.1.2.1	Contraceptive Devices
+06.1.2.2	Other Medical Products n.e.c
+07.3.1.1	Passenger Transport By Train
+07.3.1.2	Passenger Transport By Underground and Tram
+07.3.2.1	Passenger Transport By Bus and Coach
+07.3.2.2	Passenger Transport By Taxi and Hired Car with Driver
+07.3.3.1	Domestic Flights
+07.3.3.2	International Flights
+07.3.4.1	Passenger Transport By Sea
+07.3.4.2	Passenger Transport By Inland Waterway
+11.1.1.1	Food and Non-Alcoholic Beverages at Restaurants
+11.1.1.2	Food and Non-Alcoholic Beverages at Coffee Shops
+11.1.1.3	Food and Non-Alcoholic Beverages at Fast Food and Takeaway places
+11.1.1.4	Alcoholic Beverages Outside the Home
+12.1.3.1	Beauty Products
+12.1.3.2	Other Personal Care Items"
 
 # few-shot learning examples
 coicop_few_shot_examples <- "
