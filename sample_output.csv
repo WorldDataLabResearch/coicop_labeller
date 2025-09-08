@@ -1,461 +1,63 @@
-"index","product_name_en","coicop_modeled_1","coicop_modeled_2","coicop_modeled_3"
+"index","product_name_en","coicop_1","coicop_2","coicop_3"
 1,"Stationery, stationery supplies, giftwrap",9,5,4
-10,"Mobile phone",8,2,0
-100,"Home theatres, DVDs, Decks CD players",9,1,1
-101,"Vehicle insurance",12,5,3
-102,"Prescription drugs",6,1,1
-103,"Supportive and convalescent medical equipment",6,1,3
-104,"Rental of medical equipment",6,1,3
-105,"Mountain range",9,2,0
-106,"Cleansing and toilet tissue, paper towels and napkins",5,6,1
-107,"Frozen fish and shellfish",1,1,3
-108,"Fresh fish and shellfish",1,1,3
-109,"Breakfast and brunch at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
-11,"Maintenance of property, including items such as ceiling repair, black top, brick, or masonry work, air conditioner repair, roof and awning repair, house painting, papering, chimney cleaning, electrical inspection, furnace inspection and repair, wiring, p",4,3,2
-110,"Breakfast and brunch at employer and school cafeterias",11,1,2
-111,"Other fish or seafood(specify)",1,1,3
-112,"Physician's services",6,2,1
-113,"Fresh Fish",1,1,3
-114,"Smoked fish ",1,1,3
-115,"Tilapia ",1,1,3
-116,"Other Spirits",2,1,1
-117,"Wine (E.g. Cider, King Fisher",2,1,2
-118,"Other alcoholic beverages",2,1,0
-119,"Blood test (public hospital)",6,2,1
-12,"Payment on telephone calls by fixed and wireless telephone (user charge, cost of local and international calls and etc.)",8,3,0
-120,"Sports, athletic and recreational equipment and related services - Diary",9,3,2
-121,"Other alcoholic beverages at fast food, take-out, delivery, concession stands, buffet and cafeteria",11,1,1
-122,"Aracanut",1,1,9
-123,"Crab ",1,1,3
-124,"Women''s shirts, tops, blouses",3,1,2
-125,"Women's pants and shorts",3,1,2
-126,"Carrots (fresh)",1,1,7
-127,"Women's footwear",3,2,1
-128,"Cigarettes",2,2,0
-129,"Nonelectric articles for the hair",12,1,3
-13,"Ready-to-eat and cooked cereals",1,1,1
-130,"Fried fish ",1,1,3
-131,"Table salt",1,1,9
-132,"Klecha (local pastry)",1,1,1
-133,"ORDINARY BREAD IN BULK",1,1,1
-134,"Beer (Lagers,Stouts)",2,1,3
-135,"Other alcoholic beverages",2,1,0
-136,"Sports, athletic and recreational equipment and related services",9,3,2
-137,"Drums, knocker, bass drum",9,3,1
-138,"Subscription to television and radio channels",8,3,0
-139,"Games of chance",9,4,1
-14,"Ginger (zanjabiil)",1,1,9
-140,"Recreational services - Interview",9,4,1
-141,"Novels, essays, short stories and poems",9,5,1
-142,"Newspapers and newspapers",9,5,2
-143,"Non-professional magazines",9,5,2
-144,"Professional magazines",9,5,2
-145,"Subscription to newspapers and newspapers",9,5,2
-146,"Subscription to professional and non-professional magazines",9,5,2
-147,"Any other fruit (specify)",1,1,6
-148,"Any other fruit (specify)",1,1,6
-149,"Pans",5,4,0
-15,"Electricity",4,5,1
-150,"Upholstery fabrics, curtain fabrics, double curtains,",5,2,0
-151,"Snacks and nonalcoholic beverages at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
-152,"Mosquito net",5,2,0
-153,"KIN-LSHI domestic overhead lines",4,4,4
-154,"Other household items in textiles (towels for",5,2,0
-155,"Potato chips and other snacks",1,1,9
-156,"Transport of people by train",7,3,1
-157,"Other durable goods for leisure and culture",9,2,0
-158,"Fresh fish and shellfish",1,1,3
-159,"Cheese",1,1,4
-16,"Expenses on mobile telephone calls",8,3,0
-160,"Gifts given in cash by the brother or sister",13,0,0
-161,"Miscellaneous dairy products",1,1,4
-162,"Other fresh milk and cream, excluding whole specifically, and excluding nondairy substitutes",1,1,4
-163,"Fresh milk, all types",1,1,4
-164,"Cheese",1,1,4
-165,"Cheese",1,1,4
-166,"Cheddar cheese",1,1,4
-167,"All alcoholic Malt beverages purchased for home use.",2,1,3
-168,"Bananas",1,1,6
-169,"Potatoes",1,1,7
-17,"installation and subscription costs of land?line telephone equipment",8,3,0
-170,"Other alcoholic beverages",2,1,0
-171,"SHAKE OF ANY FLAVOR (ALCOHOLIC)",2,1,0
-172,"Other alcohol at employer",2,1,0
-173,"Other alcoholic beverages",2,1,0
-174,"hydrated alcohol",2,1,0
-175,"Sparkling Wines E.g.champagne",2,1,2
-176,"Other Beers",2,1,3
-177,"English hood and other condoms and mechanical contraceptives",12,1,3
-178,"Other alcoholic beverages",2,1,0
-179,"Other alcoholic beverages",2,1,0
-18,"Gasoline",7,2,2
-180,"Other alcoholic beverages",2,1,0
-181,"Other alcoholic beverages",2,1,0
-182,"llipza (coca macar additive)",1,1,9
-183,"Costs of repairing pants, costs of modifying pants",3,1,4
-184,"Baby clothes and slippers in textiles",3,1,2
-185,"Lighting devices (lamps, Floor lamps, Ceiling lights)",5,5,2
-186,"Shopping, Abroad",9,2,0
-187,"Ball for various sports: soccer, rugby",9,3,2
-188,"Other gardening items",9,3,3
-189,"Home entertainment equipment and services - Interview",9,1,1
-19,"Dry/ Smoked tilapia fish",1,1,3
-190,"""Expenses for music, dance, etc. courses and lessons.""",9,4,1
-191,"Rental and repair of sports, photographic and music equipment, passport fees",9,2,0
-192,"Footwear for various sports: booties for soccer, golf, skiing",9,3,2
-193,"Ground beef",1,1,2
-194,"Poultry",1,1,2
-195,"Computer equipment and supplies - Interview",9,1,3
-196,"Flatware",5,4,0
-197,"Tableware, nonelectric kitchenware",5,4,0
-198,"Miscellaneous household equipment and parts",5,4,0
-199,"Women's hosiery",3,1,2
-2,"Mortgage payment including coop",4,1,1
-20,"Fresh fish and shellfish",1,1,3
-200,"Canned fish and seafood",1,1,3
-201,"Fresh fish and shellfish",1,1,3
-202,"other alcoholic beverages",2,1,0
-203,"Mozzarella cheese",1,1,4
-204,"Processed cheese",1,1,4
-205,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114031",1,1,4
-206,"Food And Non-Alcoholic Beverages - Food - Milk, cheese and eggs - Condensed milk",1,1,4
-207,"Food And Non-Alcoholic Beverages - Food - Milk, cheese and eggs - Eggs",1,1,4
-208,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114030",1,1,4
-209,"Miscellaneous dairy products",1,1,4
-21,"Other fresh fish",1,1,3
-210,"Apples",1,1,6
-211,"Canned fruits",1,1,6
-212,"Dried fruit",1,1,6
-213,"Other alcoholic beverages",2,1,0
-214,"Household furnishings and equipment",5,1,1
-215,"Photo copying",9,5,4
-216,"Radio/Set",9,1,1
-217,"Medicines for animals",9,3,5
-218,"Fresh and canned vegetable juices",1,2,2
-219,"Roasted coffee",1,2,1
-22,"Cards or virtual recharge for mobile phones",8,2,0
-220,"Frozen meals",1,1,9
-221,"Electricity",4,5,1
-222,"Telephone service, including public pay phones",8,3,0
-223,"Frozen foods that are not complete meals.",1,1,9
-224,"Lunch at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
-225,"Dried peas",1,1,7
-226,"Other fresh vegetables",1,1,7
-227,"Artificial sweeteners",1,1,9
-228,"Ketchup",1,1,9
-229,"Veterinary services of th",9,3,5
-23,"Utility - natural gas",4,5,2
-230,"Expenses of the fitness c",9,4,1
-231,"Purchasing of books and educational materials for school (making copies, etc.)",10,5,0
-232,"Purchasing of educational materials for college (pencil, pen, ruler, etc.)",10,5,0
-233,"Purchasing of books and educational materials for college (making copies, etc.)",10,5,0
-234,"DICTIONARY; QURAN BOOK (FOR GRADE 5 STUDENT)",9,5,1
-235,"COLOURING BOOK",9,5,1
-236,"Drawing materials, paint,",9,5,4
-237,"wheat couscous",1,1,1
-238,"Prepared flour mixes",1,1,1
-239,"Mutton or goat meat",1,1,2
-24,"Internet connection from landline",8,3,0
-240,"Ham, not canned",1,1,2
-241,"Wooden bed, metal beds, bed bases, mattresses",5,1,1
-242,"Thermos bottle, coolers",5,4,0
-243,"Natural or flavored yogurt",1,1,4
-244,"Fermented milk",1,1,4
-245,"Milk cream",1,1,4
-246,"Dairy desserts",1,1,4
-247,"Hats, Caps, Berets, Hats",3,1,2
-248,"milk long-life lite",1,1,4
-249,"Other fresh milk and cream, excluding whole specifically, and excluding nondairy substitutes",1,1,4
-25,"other sauce or sauce ned",1,1,9
-250,"Other cheeses",1,1,4
-251,"Jacket with lining",3,1,2
-252,"Other clothing fabrics n.d.a.",3,1,1
-253,"Cotton wool",12,1,3
-254,"Women's head tissues, scarves",3,1,3
-255,"Moving, storage, freight",4,4,4
-256,"Airline fares",7,3,3
-257,"Nonprescription drugs",6,1,2
-258,"Potatoes",1,1,7
-259,"Kren-Kren ",1,1,7
-26,"Eggs",1,1,4
-260,"Girl's school uniform",3,1,2
-261,"Antennae (aerial) /Satellite/Decoder",9,1,1
-262,"Children's leather shoes",3,2,1
-263,"SPAGHETTI",1,1,1
-264,"Coffee",1,2,1
-265,"UNIDENTIFIED UNFILLED DRY PASTA AND OTHER TYPES N.E.S.",1,1,1
-266,"Dress, shirt, T-shirt",3,1,2
-267,"BEEF CUT GROUND BEEF",1,1,2
-268,"Bananas",1,1,6
-269,"Sweater, pullover, jacket",3,1,2
-27,"Telephone service, including public pay phones",8,3,0
-270,"Orange",1,1,6
-271,"Sportswear",3,1,2
-272,"Underwear, swimsuit",3,1,2
-273,"Underwear",3,1,2
-274,"Fresh fruit juice",1,2,2
-275,"CHICKEN TROUT",1,1,2
-276,"Frozen foods that are not complete meals.",1,1,9
-277,"Jacket",3,1,2
-278,"Sewing and mending of children's footwear",3,2,2
-279,"Children's Bags, belts, other accessories",3,1,3
-28,"Traffic fines (including non-official payments)",13,0,0
-280,"Children's Spring - fall clothes",3,1,2
-281,"Tailoring Charges-Men ",3,1,4
-282,"Bathroom linens",5,2,0
-283,"TRADITIONAL VIENESE",1,1,1
-284,"Tailoring Charges-Women ",3,1,4
-285,"Girl?s dress/skirt ",3,1,2
-286,"Salon games: dice, ludo, cards, etc.",9,3,1
-287,"Toys to assemble",9,3,1
-288,"Baby toys: rattle",9,3,1
-289,"Rental and repair of sports, photographic and music equipment, passport fees",9,2,0
-29,"Satellite internet connection.",8,3,0
-290,"Imputed rentals of owner-occupiers",4,2,1
-291,"Entertainment Unit/TV stand",5,1,1
-292,"Newspapers (local daily) ",9,5,2
-293,"Rice",1,1,1
-294,"Fresh milk, all types",1,1,4
-295,"Bottled water",1,2,2
-296,"Tv size 26 knots or more",9,1,1
-297,"Men's accessories",3,1,3
-298,"Women's skirts",3,1,2
-299,"Prescription drugs",6,1,1
-3,"Water pump",5,5,1
-30,"Radio message and radio call service",8,3,0
-300,"Pet food",9,3,4
-301,"Other noncarbonated beverages and ice",1,2,2
-302,"Canned and bottled fruit juice",1,2,2
-303,"Lunch at vending machines and mobile vendors",11,1,1
-304,"Dinner at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
-305,"Cheese",1,1,4
-306,"Powdered milk (commercial",1,1,4
-307,"Coolant, brake fluid, transmission fluid, and other additives",7,2,2
-308,"Homemade, white cheese (all types)",1,1,4
-309," Other types of cheese (soft, hard, cream)",1,1,4
-31,"Card mobile phone",8,2,0
-310," Eggs (chicken and others)",1,1,4
-311,"Green cheese",1,1,4
-312,"Fermented milk drinks",1,1,4
-313,"White and red chicken egg",1,1,4
-314,"milk long-life lite anchor",1,1,4
-315,"Canned corn",1,1,7
-316,"Sugar",1,1,8
-317,"Pet purchase, supplies, medicine",9,3,4
-318,"Chuck roast",1,1,2
-319,"Rice",1,1,1
-32,"Postage stamp, sending letters, postcards",8,1,0
-320,"Whole or skimmed milk powder",1,1,4
-321,"Girl?s undergarments ",3,1,2
-322,"Boy?s sweater/cardigan ",3,1,2
-323,"Boy?s other clothing ",3,1,2
-324,"Skirt",3,1,2
-325,"Shirts",3,1,2
-326,"Jackets",3,1,2
-327,"Pajamas",3,1,2
-328,"Shirts",3,1,2
-329,"Belts",3,1,3
-33,"Other postal services",8,1,0
-330,"Suits",3,1,2
-331,"PEN DRIVE",9,1,3
-332,"Gymnastics equipment",9,3,2
-333,"Prepared salads",1,1,9
-334,"Electric heating and air conditioning supplies and equipment",5,5,2
-335,"Cable and satellite television services",8,3,0
-336,"Boys' pants and shorts",3,1,2
-337,"Boys' uniforms and active sportswear",3,1,2
-338,"Women's undergarments",3,1,2
-339,"Land and fertilizers",9,3,3
-34,"Fixed telephone and fax equipment",8,2,0
-340,"Artificial flowers and plants",9,3,3
-341,"Entrance to sports shows",9,4,1
-342,"Amusement park, circus, zoo, recreational center, exhibitions",9,4,1
-343,"Other recreational and cultural services",9,4,1
-344,"Reading materials and other printed matter",9,5,3
-345,"Reading materials and other printed matter - Interview",9,5,3
-346,"Magazines and periodicals",9,5,2
-347,"Books and E-Books (excluding school books)",9,5,1
-348,"PENCIL CASE; PAAS; PURSE /FILE",9,5,4
-349,"Flour",1,1,1
-35,"Mobile phone equipment: cell phone",8,2,0
-350,"Commercial white wheat fl",1,1,1
-351,"Other clothing articles",3,1,3
-352,"Infant dresses, outerwear",3,1,2
-353,"Sewing patterns and notions",3,1,2
-354,"Nonprescription vitamins",6,1,2
-355,"T-shirt",3,1,2
-356,"Rental of video cassettes, tapes, films, and discs",9,1,5
-357,"Rental of clothing",3,1,4
-358,"Women cotton fabrics",3,1,1
-359,"Men woolen fabrics",3,1,1
-36,"Mobile internet connection",8,3,0
-360,"Other clothes",3,1,3
-361,"Dye house",3,1,4
-362,"Other fresh seafood (crabs, snails)",1,1,3
-363,"Dinner at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
-364,"Smoking accessories",2,2,0
-365,"Day care centers, nursery, and preschools",12,4,1
-366,"Sun Dried fish (Small Variety)",1,1,3
-367,"Fabric _cloth_ for men",3,1,1
-368,"female - beach jandals",3,2,1
-369,"Contributions",13,0,0
-37,"Data package recharge (mobile internet)",8,3,0
-370,"Pet food",9,3,4
-371,"Smoked fish (Small Variety)",1,1,3
-372,"Eggs",1,1,4
-373,"Girl's sweater/cardigan ",3,1,2
-374,"Women's other shoes ",3,2,1
-375,"Fresh milk",1,1,4
-376,"Jackets",3,1,2
-377,"Chambiko - soured milk",1,1,4
-378,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114027",1,1,4
-379,"Men bag and the governo",3,1,3
-38,"Hypothetical box fee expense",13,0,0
-380,"Chitenje cloth",3,1,1
-381,"Expenditure on milk and its derivatives.",1,1,4
-382,"garments for infant 0 to 2 years old",3,1,2
-383,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114028",1,1,4
-384,"Maize ufa mgaiwa (normal flour)",1,1,1
-385,"Cooking oil",1,1,5
-386,"Butter",1,1,5
-387,"Plantain, cooking banana",1,1,6
-388,"Groundnut (Shelled)",1,1,6
-389,"Locally brewed liquor (kachasu )",2,1,0
-39,"Frankfurters",1,1,2
-390,"Banana",1,1,6
-391,"Papaya",1,1,6
-392,"Other confectionery nes (jam, chocolate, caramel)",1,1,8
-393,"Ice cream, ice cream, lollipop, candy",1,1,8
-394,"Salt",1,1,9
-395,"Baking needs and miscellaneous products",1,1,9
-396,"Tea",1,2,1
-397,"Thobwa",1,2,2
-398,"Fruit juice",1,2,2
-399,"White sweet potato",1,1,7
-4,"Tire, inner tube for bicycle or motorcycle",7,1,1
-40,"Fresh milk, all types",1,1,4
-400,"Onion",1,1,7
-401,"Chinese cabbage",1,1,7
-402,"Tomato",1,1,7
-403,"Yeast, baking powder, bicarbonate of soda",1,1,9
-404,"Other (specify)",1,1,9
-405,"Meat (vendor)",1,1,2
-406,"Wine or commercial liquor",2,1,2
-407,"Traditional beer (masese)",2,1,3
-408,"Sun Dried fish (Medium Variety)",1,1,3
-409,"Smoked fish (Medium Variety)",1,1,3
-41,"BEVERAGE NOT SPECIFIED",1,2,0
-410,"Cookies",1,1,8
-411,"Fresh fish (Small Variety)",1,1,3
-412,"Fresh fish (Large Variety)",1,1,3
-413,"Fresh fish (Medium Variety)",1,1,3
-414,"Smoked fish (Large Variety)",1,1,3
-415,"Bacon",1,1,2
-416,"Sun Dried fish (Large Variety)",1,1,3
-417,"women and girls - shirt",3,1,2
-418,"Powdered milk",1,1,4
-419,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114035",1,1,4
-42,"cordial",1,2,2
-420,"women and girls - dress skirt",3,1,2
-421,"School uniforms",10,1,0
-422,"Bottled / canned beer (Carlsberg, etc)",2,1,3
-423,"Other outerwear for men",3,1,2
-424,"Other milk products",1,1,4
-425,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114032",1,1,4
-426,"eggs",1,1,4
-427,"Prepared flour mixes",1,1,1
-428,"Termites, other insects (eg Ngumbi, caterpillar)",1,1,9
-429,"Other fresh milk and cream, excluding whole specifically, and excluding nondairy substitutes",1,1,4
-43,"tang asstd flavours",1,2,2
-430,"Other fresh milk and cream, excluding whole specifically, and excluding nondairy substitutes",1,1,4
-431,"Margarine - Blue band",1,1,5
-432,"Orange sweet potato",1,1,7
-433,"Sugar cane",1,1,8
-434,"Honey",1,1,8
-435,"Cakes and cupcakes",1,1,8
-436,"Tomato sauce (bottle)",1,1,9
-437,"Coffee",1,2,1
-438,"Squash (Sobo drink concentrate)",1,2,2
-439,"Soft drinks (Coca-cola, Fanta, Sprite, etc)",1,2,2
-44,"Non-alcoholic beverages",1,2,0
-440,"Maheu",1,2,2
-441,"Bottled water",1,2,2
-442,"Meal eaten at restaurant",11,1,1
-443,"Guava",1,1,6
-444,"Avocado",1,1,7
-445,"Pumpkin",1,1,7
-446,"Mushroom",1,1,7
-447,"Ground bean (nzama)",1,1,7
-448,"Samosa (vendor)",1,1,8
-449,"Spices",1,1,9
-45,"Imputed rent",4,2,1
-450,"Infant feeding cereals",1,1,1
-451,"Infant feeding formula (for bottle)",1,1,4
-452,"Hot sauce (Nali, etc)",1,1,9
-453,"Other (specify)",1,1,9
-454,"PÂTÉS AND SPREADS",1,1,9
-455,"Spending on photographers and photo shoots",9,4,2
-456,"Fish (vendor)",1,1,2
-457,"Eggs - boiled (vendor)",1,1,4
-458,"COOKED SAUSAGES, JERKY AND PORK COLD CUTS",1,1,2
-459,"Yoghurt",1,1,4
-46,"CULTURAL DRESS",3,1,2
-460,"UNIDENTIFIED HAMBURGERS AND OTHER MEAT N.E.C.",1,1,2
-461,"Chibuku(commercial traditional-style beer)",2,1,0
-462,"KALONGONDA (Mucuna)",1,1,7
-463,"Cucumber",1,1,7
-464,"Cheese",1,1,4
-465,"Freezes (flavoured ice)",1,1,8
-466,"Jam, jelly",1,1,8
-467,"Other sugar products",1,1,8
-468,"Cocoa, milo",1,2,1
-469,"Blouse, shirt for women",3,1,2
-47,"Water and sewerage maintenance",4,4,4
-470,"Women's dress pants",3,1,2
-471,"Eggs",1,1,4
-472,"LIQUID MILK",1,1,4
-473,"CHICKEN EGGS",1,1,4
-474,"BUTTER",1,1,5
-475,"Other (specify)",1,1,9
-476,"Skirt, skirt-pants for women",3,1,2
-477,"Other (specify)",1,1,9
-478,"Cola",1,2,2
-479,"Stockings, men's stockings",3,1,3
-48,"Cost of coal",4,5,4
-480,"VEGETABLE, FRUIT, OR SEED OIL",1,1,5
-481,"Stockings, ratchets for women",3,1,3
-482,"Bombacha for children and babies",3,1,3
-483,"Children's briefs",3,1,3
-484,"Costs of taking over, accommodating and retouching a shirt-Wax",3,1,4
-485,"Candy and chewing gum",1,1,8
-486,"Home entertainment equipment and services - Diary",9,1,1
-487,"The value of movie ticket",9,4,2
-488,"Alcabsat and pins and pin",9,5,4
-489,"Carbon papers and tapes",9,5,4
-49,"Telephone expense for other home ownership",8,3,0
-490,"Maize ufa processed madeya (bran flour - processed)",1,1,1
-491,"Sorghum (mapira)",1,1,1
-492,"Maize ufa raw madeya (bran flour - unprocessed)",1,1,1
-493,"Mutton",1,1,2
-494,"Other meat, fresh frozen",1,1,2
-495,"Other dairy products",1,1,4
-496,"Other fruits (specify)",1,1,6
-497,"Other fresh fruits",1,1,6
-498,"Citrus fruits, excluding oranges",1,1,6
-499,"Lettuce",1,1,7
+2,"Mortgage payment including coop",13,0,0
+3,"Water pump",4,4,1
+4,"Tire, inner tube for bicycle or motorcycle",7,2,1
 5,"Fire/extended coverage insurance",12,5,1
+6,"Pasta, cornmeal and other cereal products",1,1,1
+7,"Mail expenses (stamps, pa",8,1,0
+8,"Refreshments",11,1,1
+9,"Telephone and fax service",8,3,0
+10,"Mobile phone",8,2,0
+11,"Maintenance of property, including items such as ceiling repair, black top, brick, or masonry work, air conditioner repair, roof and awning repair, house painting, papering, chimney cleaning, electrical inspection, furnace inspection and repair, wiring, p",4,3,2
+12,"Payment on telephone calls by fixed and wireless telephone (user charge, cost of local and international calls and etc.)",8,3,0
+13,"Ready-to-eat and cooked cereals",1,1,1
+14,"Ginger (zanjabiil)",1,1,9
+15,"Electricity",4,5,1
+16,"Expenses on mobile telephone calls",8,3,0
+17,"installation and subscription costs of land?line telephone equipment",8,2,0
+18,"Gasoline",7,2,2
+19,"Dry/ Smoked tilapia fish",1,1,3
+20,"Fresh fish and shellfish",1,1,3
+21,"Other fresh fish",1,1,3
+22,"Cards or virtual recharge for mobile phones",8,3,0
+23,"Utility - natural gas",4,5,2
+24,"Internet connection from landline",8,3,0
+25,"other sauce or sauce ned",1,1,9
+26,"Eggs",1,1,4
+27,"Telephone service, including public pay phones",8,3,0
+28,"Traffic fines (including non-official payments)",13,0,0
+29,"Satellite internet connection.",8,3,0
+30,"Radio message and radio call service",8,3,0
+31,"Card mobile phone",8,3,0
+32,"Postage stamp, sending letters, postcards",8,1,0
+33,"Other postal services",8,1,0
+34,"Fixed telephone and fax equipment",8,2,0
+35,"Mobile phone equipment: cell phone",8,2,0
+36,"Mobile internet connection",8,3,0
+37,"Data package recharge (mobile internet)",8,3,0
+38,"Hypothetical box fee expense",13,0,0
+39,"Frankfurters",1,1,2
+40,"Fresh milk, all types",1,1,4
+41,"BEVERAGE NOT SPECIFIED",0,0,0
+42,"cordial",1,2,2
+43,"tang asstd flavours",1,2,2
+44,"Non-alcoholic beverages",1,2,0
+45,"Imputed rent",4,2,1
+46,"CULTURAL DRESS",3,1,2
+47,"Water and sewerage maintenance",4,4,1
+48,"Cost of coal",4,5,4
+49,"Telephone expense for other home ownership",8,3,0
 50,"Bathi phone (feature phone)",8,2,0
-500,"Other canned vegetables",1,1,7
 51,"freezer",5,3,1
 52,"Candy and chewing gum",1,1,8
 53,"Snacks and nonalcoholic beverages at full service restaurants",11,1,1
 54,"Radio cassettes, tape and cassette tape recorder, electrophones",9,1,1
-55,"Kongo bololo, Lemongrass leaf and other traditional",6,1,2
-56,"Photographer service (development of film printing e",9,4,2
+55,"Kongo bololo, Lemongrass leaf and other traditional",1,1,7
+56,"Photographer service (development of film printing e",9,1,5
 57,"Olives, pickles, relishes",1,1,9
 58,"Cod, flounder, sole and haddock (fresh or frozen, uncooked)",1,1,3
 59,"Lunch at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
-6,"Pasta, cornmeal and other cereal products",1,1,1
 60,"Wine",2,1,2
 61,"Soaps and detergents",5,6,1
 62,"Cleansing and toilet tissue, paper towels and napkins",5,6,1
@@ -466,7 +68,6 @@
 67,"Clams, cockles, mussels, cholgas, scallops",1,1,3
 68,"Meals based on fish",1,1,3
 69,"Oral hygiene products, articles",12,1,3
-7,"Mail expenses (stamps, pa",8,1,0
 70,"Cosmetics, perfume, bath preparations",12,1,3
 71,"Lunch at employer and school cafeterias",11,1,2
 72,"Dinner at full service restaurants",11,1,1
@@ -477,25 +78,924 @@
 77,"Other fresh fruits",1,1,6
 78,"Silverside",1,1,2
 79,"Jams, preserves, other sweets",1,1,8
-8,"Refreshments",1,2,2
 80,"Salt, spices, other seasonings",1,1,9
 81,"Alcoholic beverages served on licensed premises and in restaurants",11,1,1
 82,"Rug",5,1,2
-83,"Rental and repair of sports, photographic and music equipment, passport fees",9,2,0
+83,"Rental and repair of sports, photographic and music equipment, passport fees",9,1,5
 84,"Paper punch, paper scissors, staplers, glues,",9,5,4
 85,"Sauces and gravies",1,1,9
 86,"Tea",1,2,1
 87,"Cola",1,2,2
 88,"Other carbonated drinks",1,2,2
 89,"5cc syringe, other hypodermic syringes",6,1,3
-9,"Telephone and fax service",8,3,0
 90,"Citrus fruits, excluding oranges",1,1,6
 91,"Books and textbooks",9,5,1
 92,"Miscellaneous prepared foods",1,1,9
-93,"Dictionaries, encyclopedias, atlas",9,5,3
+93,"Dictionaries, encyclopedias, atlas",9,5,1
 94,"Sweetrolls, coffee cakes, doughnuts",1,1,1
 95,"Frozen and refrigerated bakery products",1,1,1
 96,"Bread",1,1,1
 97,"Plastic sandals",3,2,1
 98,"Other alcoholic beverages",2,1,0
-99,"Dictionaries ",9,5,3
+99,"Dictionaries ",9,5,1
+100,"Home theatres, DVDs, Decks CD players",9,1,1
+101,"Vehicle insurance",12,5,3
+102,"Prescription drugs",6,1,1
+103,"Supportive and convalescent medical equipment",6,1,3
+104,"Rental of medical equipment",6,1,3
+105,"Mountain range",13,0,0
+106,"Cleansing and toilet tissue, paper towels and napkins",5,6,1
+107,"Frozen fish and shellfish",1,1,3
+108,"Fresh fish and shellfish",1,1,3
+109,"Breakfast and brunch at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
+110,"Breakfast and brunch at employer and school cafeterias",11,1,2
+111,"Other fish or seafood(specify)",1,1,3
+112,"Physician's services",6,2,1
+113,"Fresh Fish",1,1,3
+114,"Smoked fish ",1,1,3
+115,"Tilapia ",1,1,3
+116,"Other Spirits",2,1,1
+117,"Wine (E.g. Cider, King Fisher",2,1,2
+118,"Other alcoholic beverages",2,1,0
+119,"Blood test (public hospital)",6,3,0
+120,"Sports, athletic and recreational equipment and related services - Diary",9,3,2
+121,"Other alcoholic beverages at fast food, take-out, delivery, concession stands, buffet and cafeteria",11,1,1
+122,"Aracanut",1,1,9
+123,"Crab ",1,1,3
+124,"Women''s shirts, tops, blouses",3,1,2
+125,"Women's pants and shorts",3,1,2
+126,"Carrots (fresh)",1,1,7
+127,"Women's footwear",3,2,1
+128,"Cigarettes",2,2,0
+129,"Nonelectric articles for the hair",12,1,3
+130,"Fried fish ",11,1,1
+131,"Table salt",1,1,9
+132,"Klecha (local pastry)",1,1,1
+133,"ORDINARY BREAD IN BULK",1,1,1
+134,"Beer (Lagers,Stouts)",2,1,3
+135,"Other alcoholic beverages",2,1,0
+136,"Sports, athletic and recreational equipment and related services",9,3,2
+137,"Drums, knocker, bass drum",9,1,5
+138,"Subscription to television and radio channels",8,3,0
+139,"Games of chance",9,3,1
+140,"Recreational services - Interview",9,4,1
+141,"Novels, essays, short stories and poems",9,5,1
+142,"Newspapers and newspapers",9,5,2
+143,"Non-professional magazines",9,5,2
+144,"Professional magazines",9,5,2
+145,"Subscription to newspapers and newspapers",9,5,2
+146,"Subscription to professional and non-professional magazines",9,5,2
+147,"Any other fruit (specify)",1,1,6
+148,"Any other fruit (specify)",1,1,6
+149,"Pans",5,4,0
+150,"Upholstery fabrics, curtain fabrics, double curtains,",5,2,0
+151,"Snacks and nonalcoholic beverages at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
+152,"Mosquito net",5,6,1
+153,"KIN-LSHI domestic overhead lines",4,5,5
+154,"Other household items in textiles (towels for",5,2,0
+155,"Potato chips and other snacks",1,1,8
+156,"Transport of people by train",7,3,1
+157,"Other durable goods for leisure and culture",9,2,0
+158,"Fresh fish and shellfish",1,1,3
+159,"Cheese",1,1,4
+160,"Gifts given in cash by the brother or sister",13,0,0
+161,"Miscellaneous dairy products",1,1,4
+162,"Other fresh milk and cream, excluding whole specifically, and excluding nondairy substitutes",1,1,4
+163,"Fresh milk, all types",1,1,4
+164,"Cheese",1,1,4
+165,"Cheese",1,1,4
+166,"Cheddar cheese",1,1,4
+167,"All alcoholic Malt beverages purchased for home use.",2,1,3
+168,"Bananas",1,1,6
+169,"Potatoes",1,1,7
+170,"Other alcoholic beverages",2,1,0
+171,"SHAKE OF ANY FLAVOR (ALCOHOLIC)",2,1,0
+172,"Other alcohol at employer",11,1,1
+173,"Other alcoholic beverages",2,1,0
+174,"hydrated alcohol",2,1,0
+175,"Sparkling Wines E.g.champagne",2,1,2
+176,"Other Beers",2,1,3
+177,"English hood and other condoms and mechanical contraceptives",6,1,2
+178,"Other alcoholic beverages",2,1,0
+179,"Other alcoholic beverages",2,1,0
+180,"Other alcoholic beverages",2,1,0
+181,"Other alcoholic beverages",2,1,0
+182,"llipza (coca macar additive)",13,0,0
+183,"Costs of repairing pants, costs of modifying pants",3,1,4
+184,"Baby clothes and slippers in textiles",3,1,2
+185,"Lighting devices (lamps, Floor lamps, Ceiling lights)",5,1,1
+186,"Shopping, Abroad",13,0,0
+187,"Ball for various sports: soccer, rugby",9,3,2
+188,"Other gardening items",9,3,3
+189,"Home entertainment equipment and services - Interview",9,1,1
+190,"""Expenses for music, dance, etc. courses and lessons.""",10,5,0
+191,"Rental and repair of sports, photographic and music equipment, passport fees",9,3,2
+192,"Footwear for various sports: booties for soccer, golf, skiing",3,2,1
+193,"Ground beef",1,1,2
+194,"Poultry",1,1,2
+195,"Computer equipment and supplies - Interview",9,1,3
+196,"Flatware",5,4,0
+197,"Tableware, nonelectric kitchenware",5,4,0
+198,"Miscellaneous household equipment and parts",5,6,1
+199,"Women's hosiery",3,1,3
+200,"Canned fish and seafood",1,1,3
+201,"Fresh fish and shellfish",1,1,3
+202,"other alcoholic beverages",2,1,0
+203,"Mozzarella cheese",1,1,4
+204,"Processed cheese",1,1,4
+205,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114031",1,1,4
+206,"Food And Non-Alcoholic Beverages - Food - Milk, cheese and eggs - Condensed milk",1,1,4
+207,"Food And Non-Alcoholic Beverages - Food - Milk, cheese and eggs - Eggs",1,1,4
+208,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114030",1,1,4
+209,"Miscellaneous dairy products",1,1,4
+210,"Apples",1,1,6
+211,"Canned fruits",1,1,6
+212,"Dried fruit",1,1,6
+213,"Other alcoholic beverages",2,1,0
+214,"Household furnishings and equipment",5,1,0
+215,"Photo copying",9,1,5
+216,"Radio/Set",9,1,1
+217,"Medicines for animals",9,3,5
+218,"Fresh and canned vegetable juices",1,2,2
+219,"Roasted coffee",1,2,1
+220,"Frozen meals",1,1,9
+221,"Electricity",4,5,1
+222,"Telephone service, including public pay phones",8,3,0
+223,"Frozen foods that are not complete meals.",1,1,9
+224,"Lunch at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
+225,"Dried peas",1,1,7
+226,"Other fresh vegetables",1,1,7
+227,"Artificial sweeteners",1,1,8
+228,"Ketchup",1,1,9
+229,"Veterinary services of th",9,3,5
+230,"Expenses of the fitness c",9,4,1
+231,"Purchasing of books and educational materials for school (making copies, etc.)",10,5,0
+232,"Purchasing of educational materials for college (pencil, pen, ruler, etc.)",10,5,0
+233,"Purchasing of books and educational materials for college (making copies, etc.)",10,5,0
+234,"DICTIONARY; QURAN BOOK (FOR GRADE 5 STUDENT)",9,5,1
+235,"COLOURING BOOK",9,5,1
+236,"Drawing materials, paint,",9,5,4
+237,"wheat couscous",1,1,1
+238,"Prepared flour mixes",1,1,1
+239,"Mutton or goat meat",1,1,2
+240,"Ham, not canned",1,1,2
+241,"Wooden bed, metal beds, bed bases, mattresses",5,1,1
+242,"Thermos bottle, coolers",5,4,0
+243,"Natural or flavored yogurt",1,1,4
+244,"Fermented milk",1,1,4
+245,"Milk cream",1,1,4
+246,"Dairy desserts",1,1,4
+247,"Hats, Caps, Berets, Hats",3,1,3
+248,"milk long-life lite",1,1,4
+249,"Other fresh milk and cream, excluding whole specifically, and excluding nondairy substitutes",1,1,4
+250,"Other cheeses",1,1,4
+251,"Jacket with lining",3,1,2
+252,"Other clothing fabrics n.d.a.",3,1,1
+253,"Cotton wool",12,1,3
+254,"Women's head tissues, scarves",3,1,3
+255,"Moving, storage, freight",12,7,1
+256,"Airline fares",7,3,3
+257,"Nonprescription drugs",6,1,2
+258,"Potatoes",1,1,7
+259,"Kren-Kren ",1,1,7
+260,"Girl's school uniform",10,1,0
+261,"Antennae (aerial) /Satellite/Decoder",8,2,0
+262,"Children's leather shoes",3,2,1
+263,"SPAGHETTI",1,1,1
+264,"Coffee",1,2,1
+265,"UNIDENTIFIED UNFILLED DRY PASTA AND OTHER TYPES N.E.S.",1,1,1
+266,"Dress, shirt, T-shirt",3,1,2
+267,"BEEF CUT GROUND BEEF",1,1,2
+268,"Bananas",1,1,6
+269,"Sweater, pullover, jacket",3,1,2
+270,"Orange",1,1,6
+271,"Sportswear",3,1,2
+272,"Underwear, swimsuit",3,1,2
+273,"Underwear",3,1,2
+274,"Fresh fruit juice",1,2,2
+275,"CHICKEN TROUT",1,1,2
+276,"Frozen foods that are not complete meals.",1,1,9
+277,"Jacket",3,1,2
+278,"Sewing and mending of children's footwear",3,2,2
+279,"Children's Bags, belts, other accessories",3,1,3
+280,"Children's Spring - fall clothes",3,1,2
+281,"Tailoring Charges-Men ",3,1,4
+282,"Bathroom linens",5,2,0
+283,"TRADITIONAL VIENESE",3,1,2
+284,"Tailoring Charges-Women ",3,1,4
+285,"Girl?s dress/skirt ",3,1,2
+286,"Salon games: dice, ludo, cards, etc.",9,3,1
+287,"Toys to assemble",9,3,1
+288,"Baby toys: rattle",9,3,1
+289,"Rental and repair of sports, photographic and music equipment, passport fees",9,3,2
+290,"Imputed rentals of owner-occupiers",4,2,1
+291,"Entertainment Unit/TV stand",5,1,1
+292,"Newspapers (local daily) ",9,5,2
+293,"Rice",1,1,1
+294,"Fresh milk, all types",1,1,4
+295,"Bottled water",1,2,2
+296,"Tv size 26 knots or more",9,1,1
+297,"Men's accessories",3,1,3
+298,"Women's skirts",3,1,2
+299,"Prescription drugs",6,1,1
+300,"Pet food",9,3,4
+301,"Other noncarbonated beverages and ice",1,2,2
+302,"Canned and bottled fruit juice",1,2,2
+303,"Lunch at vending machines and mobile vendors",11,1,1
+304,"Dinner at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
+305,"Cheese",1,1,4
+306,"Powdered milk (commercial",1,1,4
+307,"Coolant, brake fluid, transmission fluid, and other additives",7,2,2
+308,"Homemade, white cheese (all types)",1,1,4
+309," Other types of cheese (soft, hard, cream)",1,1,4
+310," Eggs (chicken and others)",1,1,4
+311,"Green cheese",1,1,4
+312,"Fermented milk drinks",1,1,4
+313,"White and red chicken egg",1,1,4
+314,"milk long-life lite anchor",1,1,4
+315,"Canned corn",1,1,7
+316,"Sugar",1,1,8
+317,"Pet purchase, supplies, medicine",9,3,4
+318,"Chuck roast",1,1,2
+319,"Rice",1,1,1
+320,"Whole or skimmed milk powder",1,1,4
+321,"Girl?s undergarments ",3,1,2
+322,"Boy?s sweater/cardigan ",3,1,2
+323,"Boy?s other clothing ",3,1,2
+324,"Skirt",3,1,2
+325,"Shirts",3,1,2
+326,"Jackets",3,1,2
+327,"Pajamas",3,1,2
+328,"Shirts",3,1,2
+329,"Belts",3,1,3
+330,"Suits",3,1,2
+331,"PEN DRIVE",9,1,3
+332,"Gymnastics equipment",9,3,2
+333,"Prepared salads",1,1,9
+334,"Electric heating and air conditioning supplies and equipment",5,3,1
+335,"Cable and satellite television services",8,3,0
+336,"Boys' pants and shorts",3,1,2
+337,"Boys' uniforms and active sportswear",3,1,2
+338,"Women's undergarments",3,1,2
+339,"Land and fertilizers",9,3,3
+340,"Artificial flowers and plants",9,3,3
+341,"Entrance to sports shows",9,4,1
+342,"Amusement park, circus, zoo, recreational center, exhibitions",9,4,1
+343,"Other recreational and cultural services",9,4,0
+344,"Reading materials and other printed matter",9,5,0
+345,"Reading materials and other printed matter - Interview",9,5,0
+346,"Magazines and periodicals",9,5,2
+347,"Books and E-Books (excluding school books)",9,5,1
+348,"PENCIL CASE; PAAS; PURSE /FILE",9,5,4
+349,"Flour",1,1,1
+350,"Commercial white wheat fl",1,1,1
+351,"Other clothing articles",3,1,3
+352,"Infant dresses, outerwear",3,1,2
+353,"Sewing patterns and notions",3,1,3
+354,"Nonprescription vitamins",6,1,2
+355,"T-shirt",3,1,2
+356,"Rental of video cassettes, tapes, films, and discs",9,1,5
+357,"Rental of clothing",3,1,4
+358,"Women cotton fabrics",3,1,1
+359,"Men woolen fabrics",3,1,1
+360,"Other clothes",3,1,2
+361,"Dye house",3,1,4
+362,"Other fresh seafood (crabs, snails)",1,1,3
+363,"Dinner at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)",11,1,1
+364,"Smoking accessories",2,2,0
+365,"Day care centers, nursery, and preschools",12,4,1
+366,"Sun Dried fish (Small Variety)",1,1,3
+367,"Fabric _cloth_ for men",3,1,1
+368,"female - beach jandals",3,2,1
+369,"Contributions",13,0,0
+370,"Pet food",9,3,4
+371,"Smoked fish (Small Variety)",1,1,3
+372,"Eggs",1,1,4
+373,"Girl's sweater/cardigan ",3,1,2
+374,"Women's other shoes ",3,2,1
+375,"Fresh milk",1,1,4
+376,"Jackets",3,1,2
+377,"Chambiko - soured milk",1,1,4
+378,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114027",1,1,4
+379,"Men bag and the governo",3,1,3
+380,"Chitenje cloth",3,1,1
+381,"Expenditure on milk and its derivatives.",1,1,4
+382,"garments for infant 0 to 2 years old",3,1,2
+383,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114028",1,1,4
+384,"Maize ufa mgaiwa (normal flour)",1,1,1
+385,"Cooking oil",1,1,5
+386,"Butter",1,1,5
+387,"Plantain, cooking banana",1,1,7
+388,"Groundnut (Shelled)",1,1,6
+389,"Locally brewed liquor (kachasu )",2,1,0
+390,"Banana",1,1,6
+391,"Papaya",1,1,6
+392,"Other confectionery nes (jam, chocolate, caramel)",1,1,8
+393,"Ice cream, ice cream, lollipop, candy",1,1,8
+394,"Salt",1,1,9
+395,"Baking needs and miscellaneous products",1,1,9
+396,"Tea",1,2,1
+397,"Thobwa",1,2,2
+398,"Fruit juice",1,2,2
+399,"White sweet potato",1,1,7
+400,"Onion",1,1,7
+401,"Chinese cabbage",1,1,7
+402,"Tomato",1,1,7
+403,"Yeast, baking powder, bicarbonate of soda",1,1,9
+404,"Other (specify)",13,0,0
+405,"Meat (vendor)",1,1,2
+406,"Wine or commercial liquor",2,1,2
+407,"Traditional beer (masese)",2,1,3
+408,"Sun Dried fish (Medium Variety)",1,1,3
+409,"Smoked fish (Medium Variety)",1,1,3
+410,"Cookies",1,1,1
+411,"Fresh fish (Small Variety)",1,1,3
+412,"Fresh fish (Large Variety)",1,1,3
+413,"Fresh fish (Medium Variety)",1,1,3
+414,"Smoked fish (Large Variety)",1,1,3
+415,"Bacon",1,1,2
+416,"Sun Dried fish (Large Variety)",1,1,3
+417,"women and girls - shirt",3,1,2
+418,"Powdered milk",1,1,4
+419,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114035",1,1,4
+420,"women and girls - dress skirt",3,1,2
+421,"School uniforms",10,1,0
+422,"Bottled / canned beer (Carlsberg, etc)",2,1,3
+423,"Other outerwear for men",3,1,2
+424,"Other milk products",1,1,4
+425,"Food And Non-Alcoholic Beverages - Food - Milk, Cheese And Eggs - 114032",1,1,4
+426,"eggs",1,1,4
+427,"Prepared flour mixes",1,1,1
+428,"Termites, other insects (eg Ngumbi, caterpillar)",1,1,2
+429,"Other fresh milk and cream, excluding whole specifically, and excluding nondairy substitutes",1,1,4
+430,"Other fresh milk and cream, excluding whole specifically, and excluding nondairy substitutes",1,1,4
+431,"Margarine - Blue band",1,1,5
+432,"Orange sweet potato",1,1,7
+433,"Sugar cane",1,1,6
+434,"Honey",1,1,8
+435,"Cakes and cupcakes",1,1,1
+436,"Tomato sauce (bottle)",1,1,9
+437,"Coffee",1,2,1
+438,"Squash (Sobo drink concentrate)",1,2,2
+439,"Soft drinks (Coca-cola, Fanta, Sprite, etc)",1,2,2
+440,"Maheu",1,2,2
+441,"Bottled water",1,2,2
+442,"Meal eaten at restaurant",11,1,1
+443,"Guava",1,1,6
+444,"Avocado",1,1,6
+445,"Pumpkin",1,1,7
+446,"Mushroom",1,1,7
+447,"Ground bean (nzama)",1,1,7
+448,"Samosa (vendor)",11,1,1
+449,"Spices",1,1,9
+450,"Infant feeding cereals",1,1,1
+451,"Infant feeding formula (for bottle)",1,1,1
+452,"Hot sauce (Nali, etc)",1,1,9
+453,"Other (specify)",13,0,0
+454,"PÂTÉS AND SPREADS",1,1,9
+455,"Spending on photographers and photo shoots",9,1,5
+456,"Fish (vendor)",1,1,2
+457,"Eggs - boiled (vendor)",11,1,1
+458,"COOKED SAUSAGES, JERKY AND PORK COLD CUTS",1,1,2
+459,"Yoghurt",1,1,4
+460,"UNIDENTIFIED HAMBURGERS AND OTHER MEAT N.E.C.",11,1,1
+461,"Chibuku(commercial traditional-style beer)",2,1,3
+462,"KALONGONDA (Mucuna)",1,1,7
+463,"Cucumber",1,1,7
+464,"Cheese",1,1,4
+465,"Freezes (flavoured ice)",1,1,8
+466,"Jam, jelly",1,1,8
+467,"Other sugar products",1,1,8
+468,"Cocoa, milo",1,2,1
+469,"Blouse, shirt for women",3,1,2
+470,"Women's dress pants",3,1,2
+471,"Eggs",1,1,4
+472,"LIQUID MILK",1,1,4
+473,"CHICKEN EGGS",1,1,4
+474,"BUTTER",1,1,5
+475,"Other (specify)",13,0,0
+476,"Skirt, skirt-pants for women",3,1,2
+477,"Other (specify)",13,0,0
+478,"Cola",1,2,2
+479,"Stockings, men's stockings",3,1,3
+480,"VEGETABLE, FRUIT, OR SEED OIL",1,1,5
+481,"Stockings, ratchets for women",3,1,3
+482,"Bombacha for children and babies",3,1,2
+483,"Children's briefs",3,1,2
+484,"Costs of taking over, accommodating and retouching a shirt-Wax",3,1,4
+485,"Candy and chewing gum",1,1,8
+486,"Home entertainment equipment and services - Diary",9,1,1
+487,"The value of movie ticket",9,4,1
+488,"Alcabsat and pins and pin",9,5,4
+489,"Carbon papers and tapes",9,5,4
+490,"Maize ufa processed madeya (bran flour - processed)",1,1,1
+491,"Sorghum (mapira)",1,1,1
+492,"Maize ufa raw madeya (bran flour - unprocessed)",1,1,1
+493,"Mutton",1,1,2
+494,"Other meat, fresh frozen",1,1,2
+495,"Other dairy products",1,1,4
+496,"Other fruits (specify)",1,1,6
+497,"Other fresh fruits",1,1,6
+498,"Citrus fruits, excluding oranges",1,1,6
+499,"Lettuce",1,1,7
+500,"Other canned vegetables",1,1,7
+501,"Public transport - Bus/Minibus",7,3,2
+502,"Matches",4,5,4
+503,"Charcoal",4,5,4
+504,"Public transport - Bicycle Taxi",7,3,2
+505,"Candles",4,5,4
+506,"Cigarettes or other tobacco",2,2,0
+507,"Public transport - Other (Truck, Oxcart, Etc)",7,3,6
+508,"Newspapers or magazines",9,5,2
+509,"ORANGE AND TANGERINE",1,1,6
+510,"APPLE",1,1,6
+511,"Paraffin or kerosene",4,5,3
+512,"LETTUCES",1,1,7
+513,"CABBAGE",1,1,7
+514,"PAPRIKA AND BELL PEPPER",1,1,7
+515,"Other carbonated drinks",1,2,2
+516,"Other childens's clothes",3,1,2
+517,"Shopping for fabrics clothing items",3,1,1
+518,"Men's Shirts ",3,1,2
+519,"Sportswear",3,1,2
+520,"Jackets",3,1,2
+521,"Synthetic fabrics for chi",3,1,1
+522,"Men silk fabrics",3,1,1
+523,"Bar soap (body soap or clothes soap)",12,1,3
+524,"Clothes soap (powder, paste)",12,1,3
+525,"Toothpaste, toothbrush",12,1,3
+526,"Glycerine, Vaseline, skin creams",12,1,3
+527,"Other personal products (shampoo, razor blades, cosmetics, hair products, etc)",12,1,3
+528,"Dirty fish",1,1,3
+529,"Donation - to church, charity, beggar, etc",13,0,0
+530,"Bicycle service, repair, or parts",7,2,3
+531,"Batteries",5,6,1
+532,"GARLIC",1,1,9
+533,"CARROTS",1,1,7
+534,"ONIONS",1,1,7
+535,"FRESH POTATOES AND ROOT VEGETABLES",1,1,7
+536,"Recharging batteries, cell phones",7,2,2
+537,"Toilet paper",12,1,3
+538,"MASHED POTATOES",1,1,7
+539,"Powdered milk",1,1,4
+540,"Food And Non-Alcoholic Beverages - Food - Milk, cheese and eggs - Powdered milk",1,1,4
+541,"Nondairy cream and imitation milk",1,1,4
+542,"Women woolen fabrics",3,1,1
+543,"Mayonnaise, mustard, ketchup",1,1,9
+544,"Other non-alcoholic beverages nes",1,2,2
+545,"Sewing, knitting, altering and mending of clothes",3,1,4
+546,"Noncarbonated fruit flavored drinks, including non-frozen lemonade",1,2,2
+547,"Coat, jacket, raincoat, overcoat",3,1,2
+548,"Dry cleaning, laundering, dyeing of clothes",3,1,4
+549,"To lease videotapes and c",9,1,4
+550,"Other (remains of plants,",9,3,3
+551,"Other cultural services",9,4,2
+552,"Expenditure on museums an",9,4,2
+553,"Biscuits, pastries and pastries",1,1,1
+554,"Imported rice",1,1,1
+555,"Egg plant",1,1,7
+556,"Vegetable milk",1,1,4
+557,"Palm oil",1,1,5
+558,"Sunflower oil - Shea oil",1,1,5
+559,"Other tubers (plantain, cassava, yam) nes",1,1,7
+560,"Maintenance of property, including items such as ceiling repair, black top, brick, or masonry work, air conditioner repair, roof and awning repair, house painting, papering, chimney cleaning, electrical inspection, furnace inspection and repair, wiring, p",4,3,2
+561,"Light bulbs",5,6,1
+562,"CANDY & GUM",1,1,8
+563,"Petrol or diesel",7,2,2
+564,"FRESH & DRIED HERBS",1,1,9
+565,"TOMATO SAUCE",1,1,9
+566,"Motor vehicle service, repair, or parts",7,2,3
+567,"Wages paid to servants",12,4,3
+568,"Postage stamps or other postal fees",8,1,0
+569,"Repairs to household and personal items (radios, watches, etc, excluding battery purchases)",9,1,5
+570,"Mortgage - regular payment to purchase house",4,2,1
+571,"Boy's shirts",3,1,2
+572,"Boy's other clothing",3,1,2
+573,"Bowls, glassware, plates, silverware, etc",5,4,0
+574,"Fuel oil",4,5,3
+575,"Boy's trousers",3,1,2
+576,"Men's shirts",3,1,2
+577,"Girl's blouse/shirt",3,1,2
+578,"Chitenje cloth",3,1,1
+579,"Magazines",9,5,2
+580,"Lady's dress/skirt",3,1,2
+581,"Deodorants, feminine hygiene, miscellaneous personal care",12,1,3
+582,"Men's shoes",3,2,1
+583,"Other maintenance and repairs n.d.a.",4,3,2
+584,"Repair of audiovisual equipment",9,1,5
+585,"Any other pastry (specify)",1,1,1
+586,"Peanut butter",1,1,8
+587,"Other milks (skimmed) nes",1,1,4
+588,"pasteurized whole milk",1,1,4
+589,"Carrot",1,1,7
+590,"Yoghurt production (traditional or industrial)",1,1,4
+591,"Imported blouse",3,1,2
+592,"FIZZY DRINKS",1,2,2
+593,"Other milk products",1,1,4
+594,"Sewing and mending of footwear",3,2,2
+595,"Ice cream and related products",1,1,8
+596,"Leather shoes",3,2,1
+597,"Repairs & maintenance to dwelling",4,3,2
+598,"Dining room (tables, chairs)",5,1,1
+599,"Expenditures on pets",9,3,4
+600,"Other sporting, camping and recreational items: hockey sticks, golf, skates, rollers, etc.",9,3,2
+601,"Colored pencil, pastel, wax, spices",9,5,4
+602," ADULT CLUBS",12,2,0
+603,"Postage costs letter, postcards and parcels na",8,1,0
+604,"Wheat flour - Tapioca/gari",1,1,1
+605,"Corn kernels raw",1,1,1
+606,"Other steak",1,1,2
+607,"Cheeses",1,1,4
+608,"Girl's shoes",3,2,1
+609,"Plastic Basin",5,6,1
+610,"Men's trousers",3,1,2
+611,"LIQUID JUICES",1,2,2
+612,"Breakfast and brunch at full service restaurants",11,1,1
+613,"Power tools",5,5,1
+614,"Kitchen and dining room linens",5,2,0
+615,"All prerecorded audio media (other than audio books). Some audio formats, such as DVD-audio may have a relatively small portion of graphical content and still be eligible.",9,1,4
+616,"Girl's dress/skirt",3,1,2
+617,"Gardening, lawn care service",9,3,3
+618,"Eyeglasses and contact lenses",12,1,3
+619,"Lady's blouse/shirt",3,1,2
+620,"Cooking utensils (cookpots, stirring spoons and whisks, etc)",5,4,0
+621,"Cleaning utensils (brooms, brushes, etc)",5,6,1
+622,"Infant clothing",3,1,2
+623,"Lady's shoes",3,2,1
+624,"Torch / flashlight",5,6,1
+625,"Boy's shoes",3,2,1
+626,"Laundry, dry cleaning, tailoring fees",3,1,4
+627,"Umbrella",5,6,1
+628,"CIGARETTES",2,2,0
+629,"Flask",5,6,1
+630,"Newspapers",9,5,2
+631,"Lady's undergarments",3,1,2
+632,"House decorations",5,1,1
+633,"Music or video cassette or CD/DVD",9,1,4
+634,"Girl's undergarments",3,1,2
+635,"Other men's underwear n. d. a",3,1,2
+636,"Girl's other clothing",3,1,2
+637,"Cloth, thread, other sewing material",3,1,1
+638,"Baby nappies/diapers",12,1,3
+639,"Men's undergarments",3,1,2
+640,"Lady's other clothing",3,1,2
+641,"Boy's undergarments",3,1,2
+642,"Men's other clothing",3,1,2
+643,"Men's jackets",3,1,2
+644,"Girl dress",3,1,2
+645,"Other masonry materials",4,3,1
+646,"Garden eggs ",1,1,7
+647,"Whole or skimmed milk powder",1,1,4
+648,"Assorted cheeses",1,1,4
+649,"Yogurt with accessories",1,1,4
+650,"flavoured milk (chocolate milk strawberry milk flavoured?)",1,1,4
+651,"Milk powder",1,1,4
+652,"Expenses on repairing of durable goods related to recreation and culture",9,1,5
+653,"Any other condiments (specify)",1,1,9
+654,"television sets",9,1,1
+655,"Expenses on gambling (service charges for lotteries, totalizators, casinos, poker clubs and other gambling establishments)",9,4,2
+656,"Newspapers (other international) ",9,5,2
+657,"Sorghum flour",1,1,1
+658,"Milk tinned",1,1,4
+659,"Cheese (wara)",1,1,4
+660,"Boy's jackets",3,1,2
+661,"Night's lodging in rest house or hotel",11,2,0
+662,"Books (not for school)",9,5,1
+663,"Stationery items (not for school)",9,5,4
+664,"Other milk products(specify)",1,1,4
+665,"Milk Sour - Packeted Mala",1,1,4
+666,"Corn in paste",1,1,1
+667,"UNDISAGGREGATED EXPENDITURE ON ALCOHOLIC BEVERAGES, TOBACCO AND NARCOTIC DRUGS",2,0,0
+668,"RENTAL OF THE MAIN RESIDENCE",4,1,1
+669,"COMMON EXPENSES FIRST HOME",4,1,1
+670,"GAS SERVICE THROUGH THE FIRST HOME NETWORK",4,5,2
+671,"Photo processing",9,1,5
+672,"Purchasing of eggs for ceremonies",1,1,4
+673,"Daily expenses (Collective room), public hospital or",12,4,3
+674,"Tickets for sports / entertainment events",9,4,1
+675,"CLEANING PRODUCTS FOR CLOTHES",5,6,1
+676,"EXPENDITURE NOT BROKEN DOWN INTO FURNITURE, HOUSEHOLD GOODS AND ORDINARY HOUSEHOLD MAINTENANCE",5,6,0
+677,"LENS AND LENS FRAMES",12,1,3
+678,"IMAGING RADIOLOGICAL EXAMINATIONS (SIMPLE AND COMPLEX EXAMINATIONS)",6,1,3
+679,"Personal care service for males (old)",12,1,4
+680,"PETROL",7,2,2
+681,"MULTIMODAL TRANSPORT SERVICE",7,3,5
+682,"PET FOOD",9,3,4
+683,"CULTURAL SERVICES PROVIDED BY THEATRES, STADIUMS AND CONCERT HALLS",9,4,2
+684,"CONTRACT TV SERVICE MAIN RESIDENCE",8,3,0
+685,"PAPERS, ENVELOPES, NOTEBOOKS",9,5,4
+686,"Night's lodging in hotel",11,2,0
+687,"Paraffin lamp (hurricane or pressure)",4,5,4
+688,"Linen - towel, sheets, blankets",5,2,0
+689,"Funeral costs, nonhousehold members (relatives, neighbors/friends)",13,0,0
+690,"Carpet, rugs, drapes, curtains",5,1,2
+691,"Cement",4,3,1
+692,"Losses to theft (value of items or cash lost)",13,0,0
+693,"Mattress",5,1,1
+694,"Indoor plants, fresh flowers",9,3,3
+695,"Bricks",4,3,1
+696,"Council rates",4,4,4
+697,"Fines or legal fees",13,0,0
+698,"UNDISAGGREGATED EXPENDITURE ON RECREATION AND CULTURE",9,0,0
+699,"MAIN COURSE FOR LUNCH AND DINNER EATEN IN RESTAURANTS AND THE LIKE",11,1,1
+700,"Other fresh milk and cream, excluding whole specifically, and excluding nondairy substitutes",1,1,4
+701,"Capitula (or panties)",3,1,2
+702,"Vet services",9,3,5
+703,"White bread",1,1,1
+704,"Brown bread",1,1,1
+705,"Postage",8,1,0
+706,"Shirt, panties, boy",3,1,2
+707,"Mosquito net",5,5,2
+708,"Water and sewerage maintenance",4,4,3
+709,"Video",9,1,4
+710,"Suit (trousers and jacket)",3,1,2
+711,"Tents of the trips",9,3,2
+712,"Equipment bodybuilding an",9,3,2
+713,"Other (collection of coin",9,3,3
+714,"Rental and repair of sports, photographic and music equipment, passport fees",9,1,5
+715,"Books and pamphlets",9,5,1
+716,"Posters, greeting cards,",9,5,4
+717,"Local newspapers",9,5,2
+718,"Mat - sleeping or for drying maize flour",5,2,0
+719,"Construction timber",4,3,1
+720,"Lobola (bridewealth) costs",13,0,0
+721,"Tuna (fresh/frozen) , large fish (size of a full arm or bigger)",1,1,3
+722,"Marriage ceremony costs",13,0,0
+723,"Funeral costs, household members",13,0,0
+724,"Insurance - health (MASM, etc.), auto, home, life",12,5,0
+725,"Sports & hobby equipment, musical instruments, toys",9,3,2
+726,"Film, film processing, camera",9,1,5
+727,"Grass for thatching roof or other use",4,3,1
+728,"Woodpoles, bamboo",4,3,1
+729,"READY-TO-EAT SANDWICHES, PIZZAS AND EMPANADAS, SOLD IN SUPERMARKETS, WAREHOUSES AND THE LIKE",11,1,1
+730,"READY-TO-EAT PACKAGED SWEET PRODUCTS PURCHASED FROM STREET VENDORS AND VENDING MACHINES",11,1,1
+731,"Nondairy cream and imitation milk",1,1,4
+732,"Other medical analyses n.e.a.",6,1,3
+733,"Software video games",9,1,4
+734,"INSTRUMENTAL BOX",5,5,2
+735,"Girls' underwear and sleepwear",3,1,2
+736,"Lotteries and pari-mutuel losses",9,4,2
+737,"Women''s vests and sweaters",3,1,2
+738,"Garlic bread",1,1,1
+739,"Whole wheat bread",1,1,1
+740,"Gasoline",7,2,2
+741,"Girls' hosiery",3,1,2
+742,"butter anchor",1,1,5
+743,"Margarine",1,1,5
+744,"Checking accounts, other bank service charges",12,6,2
+745,"Sausage",1,1,2
+746,"Bologna, liverwurst, salami",1,1,2
+747,"Margarine",1,1,5
+748,"Includes any non-frozen prepared desserts not priced elsewhere in Food at Home. Items generally include refrigerated or shelf-stable packaged desserts.",1,1,8
+749,"Rent",4,1,1
+750,"Butter",1,1,5
+751,"Dry cleaning, bleaching and dyeing of men's clothes",3,1,4
+752,"Other fats nes (lard, lard, margarine, etc.)",1,1,5
+753,"Salt, spices, other seasonings",1,1,9
+754,"Baby food",1,1,9
+755,"Artisanal or industrial fruit juice",1,2,2
+756,"Men's Underwear ",3,1,2
+757,"Women's Sports Shoes ",3,2,1
+758,"Wardrobe, sideboard, dresser, shelves",5,1,1
+759,"Food And Non-Alcoholic Beverages - Food - Oils and fats - Edible oils (excludes cod or halibut liver oil)",1,1,5
+760,"DIVING FINS; MASK - DIVING; FINS ( MOODHAHEREN); DIVE MASK; FINS",9,3,2
+761,"Garden supplies and services - Interview",9,3,3
+762,"PAINTING BRUSH",5,5,2
+763,"CALENDAR; CALENDER",9,5,4
+764,"Printing",9,5,4
+765,"White bread",1,1,1
+766,"Biscuits and rolls",1,1,1
+767,"Crackers",1,1,1
+768,"White bread",1,1,1
+769,"Bread, other than white",1,1,1
+770,"sweet banana",1,1,6
+771,"Frozen vegetables",1,1,7
+772,"Vehicle insurance",12,5,3
+773,"READY-TO-EAT SANDWICHES, PIZZAS, EMPANADAS AND THE LIKE, PURCHASED FROM STREET VENDORS AND VENDING MACHINES",11,1,1
+774,"READY-TO-DRINK NON-ALCOHOLIC BEVERAGES, PURCHASED FROM STREET VENDORS AND VENDING MACHINES",11,1,1
+775,"Shawls, tie",3,1,2
+776,"Physician's services",6,2,1
+777,"Pet services",9,3,5
+778,"Dried fish",1,1,3
+779,"Hiring of clothes",3,1,4
+780,"Personal care service for females (old)",12,1,4
+781,"Hospital care not specified",6,3,0
+782,"Children's Winter clothes",3,1,2
+783,"Other alcoholic beverages at full service restaurants",11,1,1
+784,"Homeowners insurance",12,5,1
+785,"Parts, equipment, and accessories",7,2,1
+786,"Vehicle registration",7,2,4
+787,"Newsletters",9,5,2
+788,"can of tuna",1,1,3
+789,"LUNCH AND DINNER BOTH TAKEAWAY AND DELIVERY, PURCHASED IN RESTAURANTS AND THE LIKE",11,1,1
+790,"Smoked fish/ Yemeni fish/ grilled fish",1,1,3
+791,"Canned fish and seafood",1,1,3
+792,"Material for Women's skirt ",3,1,1
+793,"Utility - natural gas",4,5,2
+794,"Ladies Underwear ",3,1,2
+795,"Academic fees, higher education or public university",10,4,0
+796,"Ladies jacket/coat/sweater/cardigan ",3,1,2
+797,"Other ladies clothing ",3,1,2
+798," Pastry",1,1,1
+799,"Cotton fabrics for childr",3,1,1
+800,"Woolen fabrics for childr",3,1,1
+801,"Clothing accessories (purses, hats, wallets)",3,1,3
+802,"Products for making clothes (fabrics, yarns, wool)",3,1,1
+803,"Imputed rent",4,2,1
+804," White bread",1,1,1
+805,"Sweetened or unsweetened condensed whole milk",1,1,4
+806,"Other roast",1,1,2
+807,"Unprocessed liquid fresh milk",1,1,4
+808,"Food And Non-Alcoholic Beverages - Food - Oils And Fats - 115038",1,1,5
+809,"Food And Non-Alcoholic Beverages - Food - Oils And Fats - 115040",1,1,5
+810,"Date",1,1,6
+811,"Canned miscellaneous vegetables",1,1,7
+812,"Candies, chewing gum, honey",1,1,8
+813,"Salad dressings",1,1,9
+814,"Instant and freeze dried coffee",1,2,1
+815,"Sports drinks",1,2,2
+816," Potato",1,1,7
+817,"Tomato concentrate",1,1,7
+818," Pirina~",1,1,1
+819," Yeast",1,1,9
+820,"Kindergarten fee and registration for 2 to 4 years old",10,1,0
+821,"UNDISAGGREGATED EXPENDITURE ON RESTAURANTS AND HOTELS",11,0,0
+822,"TOILET PAPER",12,1,3
+823,"BANKING INSTITUTION FEES",12,6,2
+824,"ADMINISTRATIVE COSTS OF PRIVATE PENSION FUNDS AND SIMILAR SERVICES",12,6,2
+825,"RICE",1,1,1
+826,"DE-IDENTIFIED AND OTHER COOKIES",1,1,8
+827,"CAKES AND SWEET DOUGHS, SMALL OR BY POTION",1,1,8
+828,"Household services (tailoring, dry cleaning, shoe and clothing repairs, etc.)",12,1,4
+829,"Preschool tariff and tuition",10,1,0
+830,"WHEAT FLOUR",1,1,1
+831,"School uniforms",3,1,2
+832,"Miscellaneous supplies and equipment, such as caulking compound, duct tape, carpet tape, carpet knife, bolts, screws, drill bits, door knobs, tool box, keys, mailbox, gutter screens, clamps, shelf brackets, tool table, work bench, etc…",5,5,2
+833,"Misc. auto repair, servicing",7,2,3
+834,"Arakjan",1,1,9
+835,"Lube, oil change, and oil filters",7,2,3
+836,"Motor repair, replacement",7,2,3
+837,"Vehicle inspection",7,2,4
+838,"Topicals and dressings",6,1,3
+839,"Medical equipment for general use",6,1,3
+840,"Social, recreation, health club membership",9,3,2
+841,"Computer information services",8,3,0
+842,"Dishdasha",3,1,2
+843,"Headband",3,1,3
+844,"Children's clothing and children's underwear",3,1,2
+845,"Special education fees and tuition",10,5,0
+846,"Cash gifts",13,0,0
+847,"Men's Outerwear",3,1,2
+848,"Pajamas",3,1,2
+849,"Men cotton fabrics",3,1,1
+850,"APPAREL, FOOTWEAR, AND CLOSE THE HEAD",3,0,0
+851,"BREAKFAST CEREALS",1,1,1
+852,"Boy's Swimming costumes",3,1,2
+853," Beef meat",1,1,2
+854,"Other preserves (sardines, crabs, shrimps, etc.)",1,1,3
+855,"Eggs",1,1,4
+856,"coconut oil",1,1,5
+857,"Vanaspati, margarine",1,1,5
+858,"Butter",1,1,5
+859,"Margarine",1,1,5
+860," Coffee (raw, roasted, ground)",1,2,1
+861,"Dried beans/ lentils",1,1,7
+862,"fresh onion",1,1,7
+863,"Other edible animal fats",1,1,5
+864,"Food And Non-Alcoholic Beverages - Food - Oils and fats - Peanut butter",1,1,8
+865,"Fats and oils",1,1,5
+866,"Food And Non-Alcoholic Beverages - Food - Oils and fats - Butter",1,1,5
+867," Apples",1,1,6
+868," Cherries, fresh, frozen",1,1,6
+869,"Repair of textile household items",5,6,2
+870,"LEAN BEEF CUT",1,1,2
+871,"Laundry and cleaning equipment",5,6,2
+872,"Computer courses",10,5,0
+873,"Infant underwear",3,1,2
+874,"Artistic teaching (dances, guitar, painting, singing, etc.)",10,5,0
+875,"Other non-formal education courses (cooking, pastry, cutting and tailoring, hairdressing, handicrafts, etc.)",10,5,0
+876," [lag, pudding, etc.",1,1,8
+877," Cigarettes",2,2,0
+878,"PORK CUT CHOP",1,1,2
+879," Food at work, at school",11,1,1
+880,"CHICKEN BREAST",1,1,2
+881," Wine",2,1,2
+882," A beer",2,1,3
+883,"WHOLE CHICKEN",1,1,2
+884,"MEAT OF OTHER POULTRY N.E.C.",1,1,2
+885,"Leather shoes",3,2,1
+886,"Women's sandal",3,2,1
+887,"Ketch and other school shoes",3,2,1
+888,"Children's shoes",3,2,1
+889,"Leather shoes",3,2,1
+890,"OTHER FRESH SAUSAGES",1,1,2
+891,"LITTLE MAID UNIFORM; BAND UNIFORM; CADET UNIFORM; DHIVEHI, ENGLISH DAY AH HEDHUN FEHUN, LITTEMAID UNIFORM; GUIDE UNIFORM COMPLETE KURUMAH; SCOUT UNIFORM STUFFS",3,1,2
+892,"Children's Slippers",3,2,1
+893,"Expenditure on ready-made/made-to-measure clothing for children/teenagers",3,1,2
+894,"Expenses made on clothing and footwear made by household members and distinguish both the sex of the household members and their different age groups.",3,1,2
+895," Mineral (carbonated/non-carbonated) water",1,2,2
+896,"Accessories, watches, jewellery and athletic footwear",12,3,1
+897,"UNIDENTIFIED SOLID CHEESES AND OTHER TYPES N.E.C.",1,1,4
+898,"CHREDDED CHEESE",1,1,4
+899,"Shopping for women's shoes",3,2,1
+900,"Other (clog slippers .. e",3,2,1
+901,"Children's footwear: leather boots",3,2,1
+902,"Children's footwear: leather shoes",3,2,1
+903,"Other beef",1,1,2
+904," MARGARINE",1,1,5
+905,"708. Oils (processed)",1,1,5
+906,"NUTS",1,1,6
+907,"BROCCOLI",1,1,7
+908,"CORN",1,1,1
+909,"PACKAGED FRENCH FRIES",1,1,7
+910,"SUGAR",1,1,8
+911,"CHOCOLATES OF ALL KINDS",1,1,8
+912,"POWDERED DESSERTS",1,1,8
+913,"COFFEE",1,2,1
+914,"Groundnuts Oil",1,1,5
+915,"WHISKY",2,1,1
+916,"Other oil and Fat(specify)",1,1,5
+917,"Animal fat",1,1,5
+918,"biscuits chocolate 'oreo'",1,1,8
+919,"Canned and packaged soups",1,1,9
+920," Instant soups",1,1,9
+921,"Any other aracanuts (specify)",1,1,6
+922," Carbonated and still juices",1,2,2
+923,"Women's accessories",12,3,2
+924," Other alcoholic beverages",2,1,1
+925,"Children's footwear: Sandals and leather flops",3,2,1
+926,"Children's footwear: Non Leather Shoes",3,2,1
+927,"Children's footwear: Sandals and Non -Leather Cindlets",3,2,1
+928,"Children's footwear: rubber boots",3,2,1
+929,"Children's footwear: not leather or rubber boots",3,2,1
+930,"Children's Footwear: Deportivo",3,2,1
+931,"MEN'S SWEATSHIRTS AND VESTS",3,1,2
+932,"Espadrilles",3,2,1
+933,"Other classes fee",10,5,0
+934,"WOMEN'S SWEATSHIRTS AND VESTS",3,1,2
+935,"Footwear repair",3,2,2
+936,"Footwear rental, (not sports)",3,2,2
+937,"Fuel oil",4,5,3
+938,"MEN'S PANTS & JEANS",3,1,2
+939,"SWEATSHIRTS (SWEATSHIRT AND SWEATSHIRT), SHORTS AND SHORTS FOR CHILDREN",3,1,2
+940,"Funds for washing and maintenance of floors, furniture, bathroom, windows",5,6,2
+941,"Laundry and maintenance agents (detergents, softens and figures, etc.)",5,6,2
+942,"Vehicle repair",7,2,3
+943,"Fuel and lubricant for vehicles",7,2,2
+944,"Parts for vehicles",7,2,1
+945,"SPORTSWEAR SCHOOL WEAR",3,1,2
+946,"SCHOOL UNIFORMS WITHOUT BREAKDOWN",3,1,2
+947,"YARNS, WOOLS AND OTHER TYPES OF RELATED PRODUCTS",3,1,1
+948,"WOMEN'S BOOTS, ANKLE BOOTS AND ANKLE BOOTS",3,2,1
+949,"CHILDREN'S BOOTS, ANKLE BOOTS AND ANKLE BOOTS",3,2,1
+950,"Men's hosiery",3,1,2
+951,"SCHOOL SHOE",3,2,1
+952,"OTHER SNEAKERS N.E.C.",3,2,1
+953,"Other bread loaves",1,1,1
+954,"Men''s sweaters and vests",3,1,2
+955,"Men''s shirts",3,1,2
+956,"Men's pants and shorts",3,1,2
+957,"Men's footwear",3,2,1
+958,"Newspapers and ~ Ascriptions",9,5,2
+959,"Women's active sportswear",3,1,2
+960,"Camping equipment",9,3,2
+961,"Fees for participant sports",9,4,1
+962,"Admission to sporting events",9,4,1
+963,"Brake adjustment (old)",7,2,3
+964,"Athletic gear, game tables, and exercise equipment",9,3,2
+965,"Mortgage payment including coop",4,2,1
+966,"Babysitting and child care",12,4,1
+967,"Men's underwear",3,1,2
+968,"Boys' coats and jackets",3,1,2
+969,"Food, Medicines and other costs for households",13,0,0
+970," Pork fat, lard, tallow",1,1,5
+971,"Citrus – naartje, orange, etc",1,1,6
+972,"Groundnut Dried (UnShelled)",1,1,6
+973," Tobacco",2,2,0
+974," Brandy",2,1,1
+975," Cocoa",1,1,8
+976,"Creams, powders and {minka",12,1,3
+977,"Toilet paper and hygiene insert",12,1,3
+978,"Pasta and cleanses for teeth",12,1,3
+979," Sheep and goats",1,1,2
+980,"Groundnut Fresh (UnShelled)",1,1,6
+981,"IMPUTED RENT OF THE MAIN RESIDENCE ONLY FOR OWNERS",4,2,1
+982,"DRINKING WATER SERVICE FIRST HOME",4,4,1
+983,"FIRST HOME GARBAGE COLLECTION SERVICE",4,4,2
+984,"FIRST HOME ELECTRICITY SERVICE",4,5,1
+985,"CHARCOAL",4,5,4
+986,"DISH AND POT CLEANING PRODUCTS",5,6,1
+987,"Secondary school fees (8-10)",10,2,0
+988,"ITEMS FOR CLEANING DISHES AND POTS",5,6,1
+989,"Woolen, synthetic, silk and cotton fabric, materials",3,1,1
+990,"ANTI-INFECTIVES",6,1,1
+991,"Secondary school tution fees (8-10)",10,2,0
+992,"Higher secondary school tution fees (11-12)",10,2,0
+993,"CARDIOVASCULAR SYSTEM",6,1,1
+994,"NERVOUS SYSTEM",6,1,1
+995,"Spending on primary school trips in Italy",10,1,0
+996,"primary school fees",10,1,0
+997,"Subscription for the Internet",8,3,0
+998,"Boys'' shirts",3,1,2
+999,"CONSULTATIONS OF HEALTH PROFESSIONALS IN CLINICS, PRIVATE OR SEMI-PUBLIC ESTABLISHMENTS",6,2,1
+1000,"Bread rolls",1,1,1

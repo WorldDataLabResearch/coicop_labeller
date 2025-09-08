@@ -207,8 +207,7 @@ coicop_labeller <- function(products,
     newly_labelled_data <- read.csv(paste(local_path, get_file_name(chunk_index), ".csv", sep = ""))
 
     # only keep the COICOP columns and the index
-    coicop_cols <- c(product_id_col_name, "coicop_1", "coicop_2",
-                     "coicop_3")
+    coicop_cols <- c(product_id_col_name, "coicop_1", "coicop_2", "coicop_3")
 
     # print the number of labels generated
     if (verbose) {
@@ -235,7 +234,8 @@ coicop_labeller <- function(products,
 
     # joining the COICOP classifications with the original data
     final_output <- intermediary_data %>%
-        left_join(newly_labelled_data, by = product_id_col_name)
+        left_join(newly_labelled_data, by = product_id_col_name) %>%
+        filter(!(is.na(coicop_1)))
 
     # writing the final output to a CSV file
     write.csv(final_output, gpt_output_file, row.names = FALSE)
