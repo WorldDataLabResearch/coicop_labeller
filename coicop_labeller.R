@@ -144,7 +144,6 @@ coicop_labeller <- function(products,
     db$coicop_1 <- as.numeric(db$coicop_1)
     db$coicop_2 <- as.numeric(db$coicop_2)
     db$coicop_3 <- as.numeric(db$coicop_3)
-    db$coicop_4 <- as.numeric(db$coicop_4)
     return(db)
   }
 
@@ -187,7 +186,7 @@ coicop_labeller <- function(products,
 
     # separating the COICOP labels into individual columns
     labelled_by_index <- separate(labelled_by_index, code, into = c("coicop_1", "coicop_2",
-                                                                    "coicop_3", "coicop_4"),
+                                                                    "coicop_3"),
                                   sep = "\\.", fill = "right", convert = TRUE)
 
     # converting the COICOP labels to numeric
@@ -209,7 +208,7 @@ coicop_labeller <- function(products,
 
     # only keep the COICOP columns and the index
     coicop_cols <- c(product_id_col_name, "coicop_1", "coicop_2",
-                     "coicop_3", "coicop_4")
+                     "coicop_3")
 
     # print the number of labels generated
     if (verbose) {

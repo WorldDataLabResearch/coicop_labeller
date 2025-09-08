@@ -18,6 +18,7 @@ verbose <- TRUE
 
 systeminput <- paste("You are a classifier that needs to classify an inputted revenue stream description as one of many CoiCop labels. These CoiCop labels have 4 levels. For example, Food & Beverage is level 1, Food is level 2, Bread & Cereals is level 3, Cereals is level 4. The format of the label is x.x.x.x, with each x being a level.
                      Some products can appear in both “at home” and “outside home” consumption branches especially for food (e.g., coffee beans vs coffee in restaurants). Usually food appears first and then restaurants. Data files are often structured with parent categories first, followed by more specific (children) categories.
+                     Dont add values especially for coicop_3 if they dont exist as a combination in the input examples.
                      If it is a general enough category, input 0s for each of the following level labels. The following is a string containing the entire labelling system: \n",
                      coicop_labels_str_stripped, "And the following are 10 examples of correctly labelled items: \n",
                      coicop_few_shot_examples)
