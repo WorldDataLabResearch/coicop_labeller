@@ -16,7 +16,7 @@ if (!exists("OPEN_API_KEY")) {
 # -----------
 verbose <- TRUE
 
-systeminput <- paste("You are a classifier that needs to classify an inputted revenue stream description as one of many CoiCop labels. These CoiCop labels have 4 levels. For example, Food & Beverage is level 1, Food is level 2, Bread & Cereals is level 3, Cereals is level 4. The format of the label is x.x.x.x, with each x being a level.
+systeminput <- paste("You are a classifier that needs to classify household consumption expenditure description as one of many COICOP labels. These COICOP labels have 4 levels. For example, Food & Beverage is level 1, Food is level 2, Bread & Cereals is level 3, Cereals is level 4. The format of the label is x.x.x.x, with each x being a level.
                      Some products can appear in both “at home” and “outside home” consumption branches especially for food (e.g., coffee beans vs coffee in restaurants). Usually food appears first and then restaurants.
                      If a food item appears after restaurant then label it as restaurant (food outside home) coicop_1 is 11.
                      Data files are often structured with parent categories first, followed by more specific (children) categories.
